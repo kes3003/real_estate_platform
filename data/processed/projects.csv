@@ -1,0 +1,1170 @@
+id,name,area_id,developer_id,unit_type,base_price,avg_unit_size_sqm,status,launch_year,handover_date
+0,Nakheel Oasis (Plots),745,4,unclassified,1609694.0,675.0,off_plan,2024.0,2026-02-22
+1,Nour Watan,697,4,studio,663760.0,43.2,off_plan,2023.0,2025-02-14
+2,Diva at the Bay 1,834,2,1 bed,1096449.0,83.2,off_plan,2024.0,2026-06-17
+3,Nawayef Village Townhouses,46,3,4 beds,4480000.0,254.7,off_plan,2023.0,2025-01-13
+4,Nawayef East B,46,2,4 beds,7052000.0,374.3,off_plan,2023.0,2025-06-16
+5,Nawayef East A,46,2,6+ beds,30949594.0,1951.5,off_plan,2023.0,2025-05-11
+6,Bashayer Villas - Phase 1,46,5,4 beds,6095000.0,365.3,off_plan,2023.0,2025-06-10
+7,Al Naseem,46,2,5 beds,9302296.0,781.5,off_plan,2024.0,2026-06-03
+8,Bloom Soho Square,648,3,line store,2371940.0,163.2,completed,2023.0,2025-04-12
+9,Bawabat Al Sharq - Phase 3,252,1,studio,594180.0,51.5,off_plan,2024.0,2026-05-10
+10,Nawayef West B,46,1,4 beds,6185178.0,374.3,off_plan,2024.0,2026-06-21
+11,Selina Bay,834,4,1 bed,1141107.0,88.2,off_plan,2023.0,2025-01-29
+12,Private,269,5,unclassified,1200000.0,688.9,completed,2023.0,2025-02-18
+13,Jubail Terraces,305,5,1 bed,2300000.0,129.5,off_plan,2024.0,2026-04-06
+14,Bayn - Lagoon,272,4,3 beds,4102000.0,244.1,off_plan,2023.0,2025-06-19
+15,Oasis 2,678,1,2 beds,1165000.0,86.2,completed,2023.0,2025-05-29
+16,Private,178,3,unclassified,1850000.0,1781.6,completed,2024.0,2026-05-06
+17,Ansam - Phase 2 - The Golf Collection,840,4,studio,758702.0,47.7,off_plan,2023.0,2025-05-19
+18,Private,666,2,6+ beds,5500000.0,788.3,completed,2023.0,2025-04-18
+19,Mangrove Village,524,2,5 beds,6600000.0,425.4,completed,2023.0,2025-04-30
+20,Al Raha Gardens - Samra,714,5,3 beds,2280000.0,284.0,completed,2023.0,2025-05-23
+21,Private,482,1,unclassified,1600000.0,40014.0,completed,2024.0,2026-02-09
+22,Al Reeman 1 - Phase 1 (Plots),697,3,unclassified,9000000.0,2214.0,completed,2023.0,2025-02-26
+23,Wadeem (Plots),46,2,unclassified,3042500.0,704.0,off_plan,2023.0,2025-02-11
+24,Bloom Living - Toledo,367,3,3 beds,2554901.81,171.3,off_plan,2024.0,2026-05-07
+25,Private,854,5,unclassified,4400000.0,2735.7,completed,2023.0,2025-03-20
+26,Private,385,1,unclassified,6540000.0,8321.0,court_mandated,2024.0,2026-04-18
+27,Saadiyat Beach Residences - Block 5,641,3,2 beds,2450000.0,167.2,completed,2023.0,2025-01-14
+28,Private,753,2,unclassified,6000000.0,1839.3,completed,2023.0,2025-06-02
+29,Sea La Vie,834,4,4 beds,6490130.0,565.6,off_plan,2023.0,2025-06-06
+30,Private,224,2,unclassified,2200000.0,306.3,completed,2024.0,2026-04-27
+31,Al Ghadeer - Phase 2 (Tala),733,4,1 bed,810000.0,52.7,completed,2023.0,2025-02-13
+32,Al Reeman 2 - Phase 1 (Plots),696,1,unclassified,1700000.0,561.0,completed,2024.0,2026-03-01
+33,Bab Al Qasr Residence 25,834,2,2 beds,1833343.0,126.5,off_plan,2023.0,2025-05-22
+34,Private,119,2,unclassified,5500000.0,27870.9,completed,2023.0,2025-05-04
+35,Al Deem Townhomes,147,2,4 beds,4529870.0,360.8,off_plan,2024.0,2026-03-31
+36,"The Gate, Masdar City",678,4,2 beds,1350000.0,82.2,off_plan,2023.0,2025-02-21
+37,Ansam - Phase 1,840,1,2 beds,2625000.0,136.6,completed,2024.0,2026-01-06
+38,Hydra Avenue (Hydra Towers),607,2,1 bed,680000.0,53.0,completed,2024.0,2026-02-03
+39,Radiant Square,607,2,1 bed,857945.0,76.2,off_plan,2023.0,2025-02-23
+40,Oasis Residences - Building 1,599,4,1 bed,1050000.0,79.9,completed,2024.0,2026-01-25
+41,Amaya Towers,600,2,1 bed,1011875.0,82.5,completed,2024.0,2026-02-13
+42,Canal Residence,606,4,3 beds,3400000.0,171.5,completed,2024.0,2026-02-19
+43,"Marina Square, Paragon Bay Mall",605,1,4 beds,2602711.0,186.0,completed,2023.0,2025-04-14
+44,Vista 1,324,3,2 beds,2300000.0,136.0,off_plan,2023.0,2025-06-01
+45,Ville 12,675,3,1 bed,1232000.0,87.0,off_plan,2024.0,2026-01-31
+46,Al Reef Downtown,102,3,2 beds,1000000.0,99.7,completed,2024.0,2026-02-10
+47,Private,852,4,unclassified,8000000.0,1754.3,completed,2023.0,2025-05-30
+48,Private,247,5,unclassified,276297.0,670.9,completed,2023.0,2025-06-02
+49,The Sustainable City - Yas Island - Phase 1,832,5,3 beds,3221132.0,268.7,off_plan,2024.0,2026-06-01
+50,Private,261,5,unclassified,2200000.0,606.7,completed,2024.0,2026-03-15
+51,Private,473,3,unclassified,600000.0,40000.0,completed,2024.0,2026-05-30
+52,Al Ghadeer - Phase 1,729,2,2 beds,900000.0,96.9,completed,2023.0,2025-05-10
+53,Noya - Phase 5 - Yas Park Views,832,5,5 beds,4207220.0,296.0,off_plan,2023.0,2025-04-24
+54,Private,373,2,unclassified,3700000.0,1645.0,completed,2024.0,2026-04-08
+55,Al Raha Lofts 2,541,1,2 beds,1550000.0,105.6,completed,2024.0,2026-01-20
+56,Al Reef 2,118,1,3 beds,1900000.0,154.0,completed,2023.0,2025-05-07
+57,Bab Al Qasr Residence 31,834,3,1 bed,1692600.0,95.2,off_plan,2024.0,2026-03-16
+58,Private,620,3,unclassified,2400000.0,1114.8,completed,2024.0,2026-01-25
+59,Oasis 1,678,2,studio,445000.0,35.6,completed,2023.0,2025-05-29
+60,Radiant Elite Tower,601,5,studio,998000.0,59.2,off_plan,2024.0,2026-02-16
+61,The Gate and Arc Towers,604,5,1 bed,1230000.0,87.6,completed,2023.0,2025-05-18
+62,Radiant Marina Towers,601,1,1 bed,1570940.0,135.4,off_plan,2024.0,2026-04-26
+63,Mayar,593,3,3 beds,3785200.0,238.3,off_plan,2024.0,2026-05-23
+64,Private,853,5,unclassified,10000000.0,2599.6,completed,2024.0,2026-04-22
+65,Private,524,4,unclassified,2200000.0,278.2,completed,2023.0,2025-06-28
+66,Jubail Island - Phase 2,305,5,4 beds,3456000.0,279.5,completed,2024.0,2026-03-10
+67,Al Ghadeer - Phase 1,731,1,1 bed,720000.0,92.2,completed,2023.0,2025-01-05
+68,Private,703,3,unclassified,3800000.0,1140.7,completed,2023.0,2025-02-12
+69,Bal Ghaiylam,147,3,4 beds,2541000.0,476.2,off_plan,2023.0,2025-01-26
+70,Yas Acres - The Magnolias,830,1,3 beds,3599805.0,277.0,completed,2023.0,2025-04-08
+71,Private,793,5,unclassified,6000000.0,880.9,completed,2023.0,2025-04-13
+72,Private,48,4,unclassified,600000.0,33482.2,completed,2024.0,2026-01-13
+73,Al Reef Townhouses - Mediterranean Village,102,2,3 beds,2050000.0,174.1,completed,2023.0,2025-01-15
+74,Private,447,1,unclassified,320000.0,25460.0,completed,2024.0,2026-02-23
+75,Private,35,4,unclassified,1850000.0,875.5,completed,2023.0,2025-02-25
+76,Najmat Abu Dhabi  - Phase 1 (Plots),595,3,unclassified,36000000.0,3050.5,completed,2024.0,2026-05-23
+77,Vista 2,324,2,studio,390000.0,31.3,off_plan,2024.0,2026-02-03
+78,Marina Bay by DAMAC,594,5,1 bed,830000.0,69.0,completed,2024.0,2026-04-05
+79,Beach Towers,603,3,1 bed,1200000.0,87.5,completed,2023.0,2025-05-31
+80,Mangrove Place,604,4,2 beds,1317613.0,89.4,completed,2023.0,2025-04-25
+81,Shams Abu Dhabi (Plots),601,2,unclassified,12000000.0,3101.1,completed,2023.0,2025-04-23
+82,Arabian Hills (Plots),745,1,unclassified,904000.0,2788.0,off_plan,2023.0,2025-05-29
+83,Diva at the Bay 2,834,3,2 beds,1190000.0,78.3,off_plan,2024.0,2026-06-23
+84,Private,717,2,unclassified,2000000.0,2599.4,completed,2023.0,2025-06-04
+85,Al Merief (Plots),674,1,unclassified,6500000.0,516.4,completed,2023.0,2025-03-31
+86,Muheira A,606,5,1 bed,1548000.0,87.4,off_plan,2024.0,2026-06-20
+87,"Sun & Sky, Boutik Mall",604,3,2 beds,2100000.0,122.0,completed,2023.0,2025-05-07
+88,Shams Meera Towers,601,1,3 beds,2500000.0,150.5,completed,2023.0,2025-05-14
+89,Sun Valley (Plots),746,3,unclassified,320061.0,1416.0,off_plan,2023.0,2025-04-27
+90,Park Vista (Plots),746,4,unclassified,309897.0,1371.0,off_plan,2023.0,2025-05-22
+91,Bab Al Qasr Residence 19,678,2,studio,1084200.0,63.8,off_plan,2024.0,2026-05-08
+92,Bab Al Qasr Residence 18,678,1,1 bed,1433640.0,96.6,off_plan,2023.0,2025-03-27
+93,Bab Al Qasr Residence 22,541,4,3 beds,2219200.0,128.8,off_plan,2024.0,2026-02-21
+94,Manarat Living I,647,2,1 bed,1343500.0,67.6,off_plan,2024.0,2026-04-14
+95,Al Muneera (Mainland),540,5,3 beds,2850000.0,161.3,completed,2023.0,2025-03-28
+96,Private,273,3,unclassified,2850000.0,832.7,completed,2024.0,2026-06-05
+97,Al Reeman 1 - Phase 2 (Plots),697,1,unclassified,2300000.0,750.0,completed,2023.0,2025-06-25
+98,Private,777,5,unclassified,5000000.0,663.8,completed,2023.0,2025-02-01
+99,Private,68,2,unclassified,5000000.0,2396.3,completed,2023.0,2025-04-24
+100,Leonardo Residences,678,4,2 beds,1250000.0,111.2,completed,2023.0,2025-06-27
+101,Private,73,4,unclassified,1400000.0,862.8,completed,2023.0,2025-04-06
+102,"Park View Residence, Al Saadiyat Island",648,2,1 bed,1500000.0,76.3,completed,2024.0,2026-06-19
+103,Al Ghadeer - Phase 1 (Waha),732,2,2 beds,830000.0,94.9,completed,2024.0,2026-04-22
+104,Private,433,5,unclassified,35000.0,6218.7,completed,2023.0,2025-03-01
+105,Saadiyat Beach Residences - Block 6,641,4,3 beds,3250000.0,196.9,completed,2024.0,2026-03-15
+106,Al Zeina,540,4,2 beds,2600000.0,132.7,completed,2024.0,2026-05-27
+107,Al Reef Townhouses - Contemporary Village,102,1,5 beds,2825000.0,273.4,completed,2024.0,2026-01-10
+108,Private,72,1,unclassified,1600000.0,190.5,completed,2024.0,2026-04-12
+109,Al Muneera (Island),540,5,1 bed,1500000.0,82.2,completed,2023.0,2025-03-17
+110,Private,99,1,unclassified,2400000.0,1798.2,completed,2023.0,2025-02-27
+111,Vista 3,606,4,studio,675568.0,45.7,off_plan,2024.0,2026-02-23
+112,"The Bridges (Towers 1, 2, and 3)",600,2,1 bed,920000.0,61.6,completed,2023.0,2025-05-26
+113,Reflection Tower B,603,4,1 bed,1290000.0,65.5,completed,2024.0,2026-02-10
+114,Marina Bay Towers (City of Lights),607,4,2 beds,1800000.0,106.0,completed,2024.0,2026-03-16
+115,Pixel,602,4,2 beds,2250000.0,116.6,completed,2023.0,2025-06-14
+116,Canal by M,603,1,2 beds,2889408.61,145.0,off_plan,2023.0,2025-05-05
+117,Gardenia Bay,833,5,1 bed,1419326.0,75.4,off_plan,2023.0,2025-04-07
+118,Private,317,5,unclassified,8000000.0,3248.0,completed,2023.0,2025-03-20
+119,Private,195,1,unclassified,24133553.36,9281.7,court_mandated,2024.0,2026-01-10
+120,Private,227,5,unclassified,16000000.0,4886.9,completed,2024.0,2026-03-22
+121,Private,650,3,unclassified,8500000.0,2599.5,completed,2024.0,2026-06-02
+122,Private,726,4,unclassified,600000.0,33501.8,completed,2023.0,2025-06-29
+123,Thoraya,598,1,3 beds,3816473.0,236.2,off_plan,2023.0,2025-01-28
+124,Private,539,5,studio,1254634.0,64.2,off_plan,2024.0,2026-05-28
+125,Private,341,2,unclassified,1000000.0,834.4,completed,2024.0,2026-05-31
+126,Private,15,4,unclassified,640000.0,33484.0,completed,2023.0,2025-05-03
+127,Private,409,1,unclassified,1700000.0,1516.8,completed,2023.0,2025-02-09
+128,Private,298,3,unclassified,1200000.0,32133.0,completed,2023.0,2025-05-24
+129,Marina Royal Compound,499,5,unclassified,22000000.0,1537.4,completed,2023.0,2025-03-23
+130,Al Bandar,540,3,1 bed,1050000.0,54.8,completed,2024.0,2026-04-08
+131,Bloom Living - Cordoba,367,5,2 beds,2380000.0,120.8,completed,2023.0,2025-03-26
+132,Private,123,5,unclassified,3300000.0,750.0,completed,2023.0,2025-02-26
+133,Private,768,2,unclassified,8000000.0,1032.5,completed,2024.0,2026-03-09
+134,Julphar Residence,607,5,1 bed,1000000.0,70.8,completed,2023.0,2025-02-18
+135,Rivage,599,3,2 beds,2212265.0,149.2,off_plan,2023.0,2025-02-02
+136,Mayyas at the Bay,834,4,1 bed,1521877.0,120.6,off_plan,2023.0,2025-01-16
+137,Private,812,1,unclassified,19500000.0,7797.8,completed,2023.0,2025-06-29
+138,Private,315,4,unclassified,8400000.0,3247.2,completed,2023.0,2025-03-17
+139,Private,690,4,unclassified,4000000.0,595.5,completed,2023.0,2025-01-28
+140,Private,180,1,unclassified,1500000.0,23104.0,completed,2023.0,2025-05-23
+141,Lea (Plots),827,5,unclassified,5000000.0,905.3,completed,2024.0,2026-01-12
+142,Private,115,3,unclassified,1000000.0,33489.0,completed,2023.0,2025-01-05
+143,Al Ghadeer - Phase 1,730,3,2 beds,1550000.0,120.9,completed,2023.0,2025-02-12
+144,Private,508,1,unclassified,1000000.0,930.6,completed,2023.0,2025-06-27
+145,Private,369,2,unclassified,6000000.0,3384.6,completed,2023.0,2025-06-26
+146,Private,78,1,unclassified,800000.0,41.4,completed,2023.0,2025-03-28
+147,Renad Tower,608,5,1 bed,943063.0,58.1,off_plan,2024.0,2026-02-13
+148,Reem Hills - Phase 2D,612,4,1 bed,850400.0,73.0,off_plan,2023.0,2025-01-23
+149,Reem Hills - Phase 2A,612,4,unclassified,7333700.0,594.0,off_plan,2023.0,2025-05-28
+150,Reem Hills - Phase 2B,612,2,unclassified,6994700.0,630.6,off_plan,2024.0,2026-03-06
+151,Reem Hills - Phase 1C,611,3,3 beds,2315700.0,220.9,off_plan,2024.0,2026-06-22
+152,Reem Hills - Phase 2C,612,2,3 beds,2474500.0,220.9,off_plan,2024.0,2026-06-28
+153,Reem Hills - Phase 1B,611,2,4 beds,3661600.0,361.1,off_plan,2023.0,2025-04-02
+154,Plaza 2,675,3,studio,614709.0,39.0,off_plan,2023.0,2025-04-27
+155,Plaza 1,678,1,studio,539000.0,34.5,off_plan,2024.0,2026-02-07
+156,Royal Park,676,2,studio,531100.0,40.5,off_plan,2023.0,2025-02-14
+157,Nawayef West A,46,3,6+ beds,40811803.0,2954.4,off_plan,2024.0,2026-01-21
+158,Private,49,3,unclassified,400000.0,33489.0,completed,2023.0,2025-01-27
+159,Al Reef Townhouses - Arabian Village,102,4,4 beds,2700000.0,180.2,completed,2023.0,2025-02-23
+160,Private,861,4,unclassified,2800000.0,360.0,completed,2024.0,2026-03-22
+161,Private,93,5,unclassified,2000000.0,626.3,completed,2023.0,2025-05-04
+162,Private,788,1,unclassified,7530000.0,1186.3,court_mandated,2024.0,2026-05-20
+163,Radiant Garden Tower,610,3,1 bed,1378000.0,89.5,off_plan,2024.0,2026-05-13
+164,Bloom Living - Granada 2,367,1,1 bed,1011858.51,57.9,off_plan,2023.0,2025-02-19
+165,Private,469,5,unclassified,1318001.32,23090.5,court_mandated,2024.0,2026-02-06
+166,Reportage Village,707,1,3 beds,2604868.0,293.0,off_plan,2024.0,2026-05-25
+167,Jubail Island - Phase 3,305,2,5 beds,4400000.0,266.7,off_plan,2023.0,2025-01-17
+168,Private,219,3,unclassified,6500000.0,389.8,completed,2024.0,2026-05-31
+169,Water's Edge - Precinct A,833,4,3 beds,2760000.0,139.9,completed,2024.0,2026-01-10
+170,Private,364,3,unclassified,5800000.0,3377.7,completed,2023.0,2025-04-17
+171,Al Reef Townhouses - Desert Village,102,4,4 beds,2250000.0,180.2,completed,2024.0,2026-01-23
+172,Private,772,4,unclassified,7600000.0,779.6,completed,2023.0,2025-03-18
+173,PUD Residence 1,697,1,studio,380000.0,28.5,off_plan,2023.0,2025-05-05
+174,Private,355,5,unclassified,5050000.0,2025.2,completed,2023.0,2025-04-10
+175,Reeman Living 2,697,5,studio,624887.0,45.0,off_plan,2024.0,2026-06-16
+176,Private,221,2,6+ beds,3644000.0,524.3,completed,2023.0,2025-04-20
+177,Private,448,2,unclassified,50000.0,16536.5,completed,2023.0,2025-04-01
+178,Oceanscape,599,4,line store,1200000.0,171.0,completed,2023.0,2025-02-11
+179,Riviera Residences,601,4,2 beds,3047587.0,171.7,off_plan,2023.0,2025-05-26
+180,Reem Nine,604,2,2 beds,3700000.0,290.6,completed,2023.0,2025-03-08
+181,Reeman Garden 1,697,5,2 beds,1157141.0,100.6,off_plan,2023.0,2025-01-10
+182,Private,102,2,unclassified,13920000.0,3750.0,completed,2023.0,2025-05-07
+183,Private,316,1,unclassified,8213830.0,3250.5,completed,2023.0,2025-04-04
+184,Private,71,1,unclassified,500000.0,33489.0,completed,2024.0,2026-04-17
+185,Private,260,1,4 beds,3350000.0,1148.2,completed,2023.0,2025-06-02
+186,Private,132,3,unclassified,1000000.0,1050.9,completed,2024.0,2026-05-13
+187,Yas Riva,832,4,4 beds,9444320.0,513.0,off_plan,2024.0,2026-04-06
+188,Private,134,5,unclassified,4730000.0,3561.1,court_mandated,2024.0,2026-05-14
+189,Private,198,5,unclassified,7169956.98,2079.5,court_mandated,2023.0,2025-01-25
+190,Private,745,4,unclassified,1674000.0,33489.0,completed,2023.0,2025-05-11
+191,Private,26,3,unclassified,1500000.0,29805.1,completed,2024.0,2026-04-21
+192,Reem Eleven,601,2,3 beds,3115000.0,179.3,off_plan,2024.0,2026-01-20
+193,Al Ghadeer - Phase 1,732,5,studio,565000.0,94.1,completed,2024.0,2026-01-12
+194,West Yas - Precinct R (Plots),836,1,unclassified,3575090.61,1350.9,completed,2024.0,2026-03-22
+195,Private,618,3,unclassified,4200000.0,1207.0,completed,2023.0,2025-06-18
+196,Private,169,4,unclassified,470000.0,33489.0,completed,2023.0,2025-02-14
+197,Private,750,3,unclassified,1515000.0,891.1,court_mandated,2024.0,2026-06-28
+198,Private,14,2,unclassified,950004.75,286.2,court_mandated,2023.0,2025-02-21
+199,Private,560,5,unclassified,2250000.0,1049.8,completed,2023.0,2025-05-24
+200,Private,383,3,unclassified,7260000.0,10783.0,court_mandated,2023.0,2025-02-27
+201,Oasis Residences - Building 2,599,2,1 bed,1250000.0,79.9,completed,2024.0,2026-01-23
+202,Private,436,4,unclassified,290000.0,23104.0,completed,2023.0,2025-01-31
+203,Private,66,4,unclassified,2000000.0,1490.4,completed,2023.0,2025-06-20
+204,Private,359,4,unclassified,7660000.0,2228.3,court_mandated,2024.0,2026-03-07
+205,Private,671,3,unclassified,7410000.0,1671.0,court_mandated,2023.0,2025-06-06
+206,Private,100,3,unclassified,6000000.0,27871.0,completed,2023.0,2025-04-30
+207,Private,672,5,unclassified,36030000.0,13981.1,court_mandated,2024.0,2026-02-04
+208,Private,210,3,unclassified,30000000.0,3600.0,completed,2023.0,2025-03-25
+209,Private,365,5,unclassified,4600000.0,3023.3,completed,2023.0,2025-02-01
+210,West Yas - Precinct J,838,4,4 beds,7100000.0,482.3,completed,2024.0,2026-06-08
+211,Private,675,5,unclassified,68082515.0,130799.5,completed,2024.0,2026-06-25
+212,Addax Tower,607,4,medium (50 to 500 sqm),2625000.0,185.5,completed,2024.0,2026-03-21
+213,Sigma Towers (City of Lights),607,3,1 bed,1060000.0,74.0,completed,2024.0,2026-01-17
+214,Reem Five,599,1,3 beds,3500000.0,195.5,completed,2023.0,2025-01-22
+215,Perla 2,834,4,3 beds,2254990.0,152.2,off_plan,2024.0,2026-04-12
+216,Vista Del Mar,834,2,2 beds,2714971.0,142.7,off_plan,2023.0,2025-03-25
+217,The Bay Residence II,834,5,2 beds,2411443.55,140.6,off_plan,2024.0,2026-06-01
+218,The Bay Residence,834,4,1 bed,1662237.59,104.6,off_plan,2023.0,2025-05-19
+219,Private,530,5,unclassified,7920000.0,1253.1,completed,2024.0,2026-05-12
+220,Private,494,3,unclassified,3750000.0,1709.4,completed,2024.0,2026-03-19
+221,Private,491,1,unclassified,300000.0,23104.0,completed,2023.0,2025-01-03
+222,Private,502,4,unclassified,880000.0,609.1,completed,2024.0,2026-01-20
+223,Seamont Residences by Marriott,600,1,2 beds,5863300.0,307.6,off_plan,2023.0,2025-04-24
+224,Private,871,5,unclassified,10022500.0,2599.5,court_mandated,2024.0,2026-02-10
+225,Private,388,1,unclassified,4600000.0,3048.7,completed,2024.0,2026-01-28
+226,Al Raha Lofts 1,541,5,2 beds,1100000.0,95.3,completed,2024.0,2026-01-04
+227,Private,381,2,unclassified,3000000.0,1297.4,completed,2024.0,2026-03-18
+228,Ranches (Plots),745,3,unclassified,1887994.0,789.0,off_plan,2024.0,2026-04-22
+229,Private,194,3,unclassified,1200000.0,1206.2,completed,2024.0,2026-06-22
+230,Private,16,5,unclassified,600000.0,33489.0,completed,2023.0,2025-06-22
+231,Horizon Towers,607,4,1 bed,1150000.0,65.5,completed,2024.0,2026-06-18
+232,Private,354,5,unclassified,5000000.0,2024.9,completed,2023.0,2025-03-09
+233,Private,328,3,unclassified,500000.0,803.0,completed,2023.0,2025-02-17
+234,Private,810,2,unclassified,35000000.0,5456.4,completed,2024.0,2026-06-24
+235,Saadiyat Lagoons - Wilds - Phase 2,639,3,5 beds,8470143.0,579.2,off_plan,2023.0,2025-05-10
+236,Merito,697,5,1 bed,905904.0,57.7,off_plan,2024.0,2026-03-01
+237,Private,567,2,unclassified,2050000.0,1080.5,completed,2024.0,2026-06-22
+238,Right Capital 1,697,5,1 bed,900000.0,65.5,off_plan,2024.0,2026-04-11
+239,Bawabat Al Sharq - Phase 4,252,2,6+ beds,2750000.0,317.0,completed,2024.0,2026-01-22
+240,Lamar Residence,544,4,2 beds,1895418.0,145.4,completed,2024.0,2026-01-13
+241,Azure,600,1,1 bed,1230000.0,71.6,completed,2023.0,2025-03-03
+242,Gazal Parkview (Plots),745,2,unclassified,1187000.0,2738.0,off_plan,2024.0,2026-06-12
+243,Private,857,3,unclassified,3500000.0,1289.0,completed,2024.0,2026-04-26
+244,Private,133,4,unclassified,895000.0,33488.7,completed,2024.0,2026-01-20
+245,Private,766,3,6+ beds,4100000.0,460.8,completed,2023.0,2025-03-18
+246,Reem Hills - Phase 1A,611,3,5 beds,11800739.0,1033.0,off_plan,2023.0,2025-03-16
+247,Private,518,4,unclassified,3500000.0,1012.2,completed,2024.0,2026-05-31
+248,Private,306,1,unclassified,1544000.0,1050.9,completed,2023.0,2025-01-25
+249,Private,794,3,unclassified,14585000.0,2598.7,completed,2023.0,2025-06-19
+250,Private,431,3,unclassified,600000.0,2025.0,completed,2023.0,2025-04-21
+251,Al Raha Gardens - Tharwaneyah,679,3,4 beds,2800000.0,374.4,completed,2024.0,2026-06-15
+252,Private,243,1,unclassified,3300000.0,1182.7,completed,2023.0,2025-05-30
+253,Private,131,4,unclassified,720000.0,27773.7,completed,2024.0,2026-06-23
+254,Al Yaqut Tower,222,2,4 beds,1520000.0,178.1,off_plan,2024.0,2026-06-25
+255,SAAS Heights,603,4,1 bed,2037706.0,115.9,off_plan,2024.0,2026-06-27
+256,Private,159,4,unclassified,3000000.0,900.0,completed,2024.0,2026-03-09
+257,Private,212,1,unclassified,18044747.37,2598.8,court_mandated,2023.0,2025-05-14
+258,Private,307,5,unclassified,2500000.0,1803.8,completed,2024.0,2026-03-25
+259,Private,630,2,unclassified,500000.0,33489.0,completed,2024.0,2026-03-29
+260,Private,842,5,unclassified,100000.0,40000.0,completed,2024.0,2026-01-17
+261,Private,346,1,unclassified,4850000.0,690.5,court_mandated,2023.0,2025-03-21
+262,Yas Acres - The Cedars,829,5,3 beds,4990000.0,307.9,completed,2024.0,2026-05-07
+263,Private,858,3,unclassified,3725000.0,1935.6,completed,2024.0,2026-02-10
+264,Reeman Living,697,4,3 beds,1159000.0,98.6,off_plan,2023.0,2025-05-28
+265,Saadiyat Lagoons - Phase 2 - Al Sidr,639,5,5 beds,9049671.6,572.5,off_plan,2023.0,2025-06-06
+266,Bloom Living - Almeria,367,1,5 beds,6435811.27,426.2,off_plan,2024.0,2026-03-27
+267,Bloom Living - Carmona,367,1,2 beds,1967183.82,120.9,off_plan,2024.0,2026-06-19
+268,Private,83,2,unclassified,1800000.0,1482.6,completed,2023.0,2025-05-15
+269,Elie Saab Waterfront,594,2,3 beds,4020000.0,201.0,off_plan,2024.0,2026-05-04
+270,Private,137,3,unclassified,1105000.0,33342.6,completed,2023.0,2025-01-04
+271,Private,136,1,unclassified,1200000.0,600.9,completed,2023.0,2025-04-20
+272,Private,97,3,unclassified,400000.0,33373.5,completed,2023.0,2025-05-02
+273,Private,797,2,unclassified,6000000.0,696.1,completed,2023.0,2025-05-02
+274,Reflection Tower A,603,2,1 bed,1250000.0,65.6,completed,2023.0,2025-03-15
+275,Nawayef Park Views,46,1,2 beds,3184298.0,165.8,off_plan,2023.0,2025-04-27
+276,Private,739,2,unclassified,2000000.0,504.2,completed,2023.0,2025-05-24
+277,Al Hadeel,542,1,2 beds,2650000.0,135.7,completed,2023.0,2025-04-05
+278,Bloom Living - Seville,367,4,2 beds,2036000.0,123.6,off_plan,2023.0,2025-03-13
+279,Private,11,3,unclassified,1600000.0,23104.0,completed,2024.0,2026-03-19
+280,Private,67,5,unclassified,1600000.0,53058.1,completed,2024.0,2026-05-24
+281,Water's Edge - Precinct B,833,3,3 beds,2250000.0,130.6,completed,2024.0,2026-02-09
+282,Masdar City - Phase 2 (Plots),675,2,unclassified,20882750.0,3977.5,completed,2023.0,2025-01-22
+283,West Yas - Precinct K,836,3,5 beds,8300000.0,568.0,completed,2023.0,2025-06-18
+284,Private,418,5,unclassified,450000.0,51705.6,completed,2023.0,2025-02-06
+285,Private,110,3,unclassified,18000000.0,2183.4,completed,2024.0,2026-01-10
+286,Private,246,4,unclassified,5700000.0,1103.0,completed,2023.0,2025-03-31
+287,Private,13,1,6+ beds,1850000.0,316.3,completed,2023.0,2025-02-15
+288,Private,384,2,unclassified,7500000.0,2098.4,completed,2024.0,2026-03-29
+289,Private,721,3,unclassified,1500000.0,33489.0,completed,2023.0,2025-04-17
+290,Opula Residences,834,5,4 beds,4050000.0,208.8,off_plan,2023.0,2025-03-20
+291,Private,646,3,unclassified,19590000.0,18008.5,completed,2024.0,2026-04-20
+292,Private,167,5,unclassified,1100000.0,30000.0,completed,2024.0,2026-02-15
+293,Private,278,1,unclassified,2000000.0,1334.5,completed,2023.0,2025-05-30
+294,Private,94,3,unclassified,3000000.0,1206.2,completed,2023.0,2025-06-20
+295,Private,105,1,unclassified,3600000.0,588.0,completed,2024.0,2026-01-18
+296,Private,486,3,unclassified,190000.0,23104.0,completed,2023.0,2025-04-17
+297,Mayan,840,3,2 beds,2344057.0,133.2,completed,2024.0,2026-04-15
+298,Private,177,4,unclassified,1100000.0,650.0,completed,2023.0,2025-05-19
+299,Tamouh (Plots),607,2,unclassified,118148839.0,9456.0,completed,2023.0,2025-01-13
+300,The Wave,594,1,1 bed,950000.0,75.8,completed,2024.0,2026-03-08
+301,Private,75,3,unclassified,30000000.0,124567.5,completed,2023.0,2025-05-07
+302,Al Ghadeer - Phase 1 (Sabil),731,4,2 beds,850000.0,100.6,completed,2023.0,2025-02-15
+303,Al Raha Gardens - Khannour,679,2,unclassified,2350000.0,291.1,completed,2023.0,2025-04-27
+304,Private,459,2,unclassified,150000.0,3177.0,completed,2024.0,2026-03-18
+305,Private,795,5,unclassified,4000000.0,445.5,completed,2023.0,2025-02-19
+306,Private,462,3,unclassified,200000.0,22100.0,completed,2023.0,2025-01-28
+307,Private,107,3,unclassified,2200000.0,1186.5,completed,2023.0,2025-05-16
+308,Private,519,2,unclassified,5000000.0,1536.1,completed,2023.0,2025-01-13
+309,Private,552,2,unclassified,2250000.0,1050.1,completed,2023.0,2025-02-02
+310,Private,370,4,unclassified,6000000.0,2791.1,completed,2024.0,2026-04-24
+311,Private,825,3,unclassified,1300000.0,33548.3,completed,2024.0,2026-02-03
+312,Jubail Island - Phase 1 (Plots),305,5,unclassified,9500000.0,1300.6,completed,2024.0,2026-01-27
+313,Private,179,2,unclassified,650000.0,1481.9,completed,2024.0,2026-05-29
+314,Bloom Living - Granada 1,367,1,2 beds,1442000.0,110.9,off_plan,2023.0,2025-04-05
+315,Private,500,2,unclassified,1000000.0,19332.4,completed,2023.0,2025-03-24
+316,Private,216,3,unclassified,6000000.0,1061.6,completed,2024.0,2026-02-24
+317,Private,87,4,unclassified,2700000.0,27870.9,completed,2024.0,2026-06-08
+318,Private,379,5,unclassified,3000000.0,1080.0,completed,2023.0,2025-03-24
+319,Private,514,3,unclassified,120000.0,546.4,completed,2024.0,2026-02-23
+320,Private,867,4,unclassified,2000000.0,1079.5,completed,2024.0,2026-01-12
+321,Private,185,3,unclassified,8000000.0,2227.5,completed,2023.0,2025-05-03
+322,Private,157,3,unclassified,1200000.0,33488.0,completed,2023.0,2025-03-28
+323,Private,182,5,unclassified,2500000.0,33489.0,completed,2023.0,2025-01-27
+324,Private,554,5,unclassified,2450000.0,1050.0,completed,2024.0,2026-04-08
+325,Golf Gardens,713,2,unclassified,3500000.0,350.5,completed,2024.0,2026-05-30
+326,Private,479,3,unclassified,100000.0,21120.0,completed,2024.0,2026-06-04
+327,Private,295,3,unclassified,3000000.0,1660.8,completed,2024.0,2026-02-04
+328,"Park View Tower, Al Reem Island",601,1,3 beds,4500000.0,319.9,completed,2023.0,2025-03-26
+329,Private,814,3,unclassified,14250000.0,2599.5,completed,2024.0,2026-02-07
+330,Private,154,4,unclassified,700000.0,1511.9,completed,2024.0,2026-04-11
+331,Bloom Gardens,227,3,3 beds,3100000.0,280.0,completed,2023.0,2025-01-24
+332,Manarat Living III,647,1,2 beds,2564996.0,155.3,off_plan,2023.0,2025-01-27
+333,Nareel Island (Plots),789,5,unclassified,7000000.0,1293.8,completed,2023.0,2025-03-31
+334,Private,420,4,unclassified,250000.0,25089.2,completed,2023.0,2025-04-04
+335,Private,824,1,unclassified,2200000.0,1856.0,completed,2024.0,2026-02-03
+336,Al Forsan Village (Villas),713,5,4 beds,3600000.0,402.3,completed,2024.0,2026-01-03
+337,Private,377,4,unclassified,500000.0,10000.6,completed,2023.0,2025-04-15
+338,Parkside Residence A,603,2,1 bed,1150000.0,71.0,completed,2023.0,2025-01-18
+339,Private,869,5,unclassified,3550000.0,1114.8,completed,2023.0,2025-06-04
+340,Al Mubazzarah Al Khadra National Housing Project,279,4,unclassified,1900000.0,225.7,completed,2023.0,2025-02-28
+341,Private,12,4,unclassified,400000.0,2317.2,completed,2023.0,2025-03-30
+342,Reem Eight,603,3,3 beds,4275300.0,217.9,off_plan,2023.0,2025-05-10
+343,Marsa Al Jubail,305,3,3 beds,6800000.0,381.8,off_plan,2023.0,2025-06-01
+344,Private,774,4,unclassified,3000000.0,986.9,completed,2023.0,2025-06-15
+345,Al Raha Gardens - Al Haweyah,679,2,unclassified,3800000.0,525.6,completed,2024.0,2026-03-18
+346,Najmat Abu Dhabi  - Phase 1 (Plots),594,5,unclassified,218472165.9,82691.1,completed,2024.0,2026-01-13
+347,Dunes Heights (Plots),745,4,unclassified,1780026.0,1438.0,off_plan,2023.0,2025-02-26
+348,Private,233,4,unclassified,115000000.0,23203.0,completed,2023.0,2025-02-09
+349,Al Raha Gardens - Qutouf,679,3,unclassified,3650000.0,365.7,completed,2024.0,2026-01-12
+350,Private,727,3,unclassified,1300000.0,33489.0,completed,2023.0,2025-02-27
+351,Private,234,4,unclassified,2200000.0,175.0,completed,2024.0,2026-05-06
+352,Bawabat Al Sharq - Phase 2,252,4,6+ beds,4800000.0,392.2,completed,2024.0,2026-01-18
+353,Private,36,1,unclassified,7388000.0,2580.5,completed,2024.0,2026-01-13
+354,Private,223,2,6+ beds,6000000.0,817.7,completed,2024.0,2026-04-05
+355,Private,776,5,unclassified,2900000.0,650.8,completed,2023.0,2025-04-10
+356,Private,280,1,unclassified,150000.0,1767.2,completed,2023.0,2025-01-23
+357,Private,112,4,unclassified,1400000.0,190.3,completed,2024.0,2026-05-27
+358,Private,380,4,unclassified,4200000.0,2612.9,completed,2024.0,2026-02-02
+359,Al Raha Gardens - Yasmina,714,4,unclassified,2400000.0,358.0,completed,2024.0,2026-03-20
+360,Private,362,2,unclassified,4000000.0,492.6,completed,2023.0,2025-02-06
+361,Private,199,1,unclassified,24000000.0,2228.0,completed,2024.0,2026-06-06
+362,Private,135,2,unclassified,2525000.0,1187.5,completed,2024.0,2026-05-10
+363,Solea,638,5,2 beds,2570000.0,138.3,off_plan,2024.0,2026-06-15
+364,Private,577,4,unclassified,5500000.0,23238.0,completed,2024.0,2026-02-16
+365,Private,874,5,unclassified,8000000.0,1671.1,completed,2023.0,2025-01-01
+366,Perla 1,834,2,2 beds,1434000.0,122.1,off_plan,2024.0,2026-04-30
+367,Saadiyat Lagoons - Wilds - Phase 1,639,1,5 beds,7554548.0,579.2,off_plan,2024.0,2026-01-28
+368,Seashore Villas,524,3,4 beds,3000000.0,284.0,completed,2023.0,2025-05-21
+369,Private,163,5,unclassified,1100000.0,23009.0,completed,2024.0,2026-01-29
+370,Al Jurf Gardens - Phase 1.1 (Plots),52,5,unclassified,1157777.0,500.0,completed,2023.0,2025-02-09
+371,Private,305,3,unclassified,40000000.0,74471.2,completed,2023.0,2025-03-11
+372,Private,811,3,unclassified,4375545.0,1494.3,completed,2023.0,2025-04-08
+373,The Beach House,267,1,1 bed,2991085.0,155.8,off_plan,2023.0,2025-03-03
+374,Private,407,3,unclassified,1855404.21,2601.8,court_mandated,2024.0,2026-05-18
+375,Tamouh (Plots),606,3,unclassified,500000.0,3459.8,completed,2024.0,2026-05-28
+376,Private,756,1,unclassified,400000.0,33489.0,completed,2023.0,2025-01-16
+377,Private,712,3,unclassified,8380000.0,560.6,completed,2024.0,2026-02-02
+378,Henge Residences,648,3,2 beds,3789599.0,197.7,off_plan,2023.0,2025-05-13
+379,Private,718,3,unclassified,4500000.0,1858.0,completed,2024.0,2026-04-19
+380,Bloom Gardens - Al Dhay,227,3,3 beds,2800000.0,156.4,completed,2024.0,2026-05-19
+381,Private,367,5,unclassified,27142860.0,19398.6,completed,2024.0,2026-03-12
+382,Private,287,2,unclassified,1700000.0,953.4,completed,2023.0,2025-04-15
+383,Parkside Residence B,603,5,3 beds,2600000.0,166.7,completed,2024.0,2026-03-04
+384,Shams Abu Dhabi (Plots),600,3,unclassified,115000000.0,6035.9,completed,2024.0,2026-04-14
+385,Private,270,2,unclassified,12500000.0,54282.4,completed,2023.0,2025-02-15
+386,Private,422,5,unclassified,100000.0,23205.0,completed,2023.0,2025-05-22
+387,Private,9,5,unclassified,1730000.0,27878.2,completed,2023.0,2025-03-18
+388,Private,789,5,unclassified,533675049.0,118287.1,completed,2024.0,2026-02-10
+389,Private,656,2,unclassified,14000000.0,1671.1,completed,2024.0,2026-02-25
+390,Private,737,3,unclassified,1500000.0,974.3,completed,2023.0,2025-04-14
+391,Private,183,5,unclassified,3200000.0,33483.0,completed,2023.0,2025-02-16
+392,Private,770,3,unclassified,9000000.0,1592.1,completed,2024.0,2026-01-30
+393,Private,563,1,unclassified,2350000.0,1128.4,completed,2023.0,2025-05-07
+394,West Yas - Precinct I,838,2,5 beds,7650000.0,568.0,completed,2024.0,2026-05-06
+395,Bloom Living - Olvera,367,4,2 beds,1868640.0,124.8,off_plan,2023.0,2025-05-21
+396,Bloom Living - Casares,367,1,2 beds,1700000.0,121.0,off_plan,2024.0,2026-05-25
+397,Saraya (Plots),187,1,unclassified,150000000.0,83315.1,completed,2024.0,2026-01-05
+398,Private,103,5,unclassified,2300000.0,3776.0,completed,2023.0,2025-06-18
+399,Noya - Phase 4 - Yas Park Gate,832,1,2 beds,1793241.0,123.9,off_plan,2023.0,2025-02-17
+400,Private,782,1,unclassified,12500000.0,1253.0,completed,2024.0,2026-06-12
+401,Al Jurf Gardens - Phase 1.2,52,2,5 beds,6424777.0,639.9,off_plan,2023.0,2025-01-30
+402,Private,720,2,unclassified,16500000.0,1393.6,completed,2023.0,2025-05-05
+403,Private,23,1,unclassified,78681.2,887.5,completed,2023.0,2025-06-21
+404,Private,230,3,unclassified,44190000.0,8540.2,court_mandated,2023.0,2025-02-06
+405,Saadiyat Reserve - The Dunes,639,1,4 beds,8700000.0,535.7,completed,2023.0,2025-03-09
+406,Private,683,2,unclassified,700000.0,463.9,completed,2024.0,2026-02-08
+407,Private,181,5,unclassified,1200000.0,7225.0,completed,2023.0,2025-01-27
+408,Arabian Hills Estate (Plots),745,4,unclassified,1758244.0,1389.0,off_plan,2024.0,2026-04-11
+409,Private,516,2,unclassified,700000.0,33499.0,completed,2023.0,2025-02-16
+410,Yas Acres - The Aspens,831,5,4 beds,6700000.0,354.8,completed,2023.0,2025-02-28
+411,Private,387,5,unclassified,4700000.0,3023.9,completed,2023.0,2025-01-16
+412,Private,572,3,unclassified,400000.0,387.2,completed,2024.0,2026-06-11
+413,Private,174,3,unclassified,300000.0,2735.1,completed,2024.0,2026-05-29
+414,Private,784,3,unclassified,1325000.0,1188.3,court_mandated,2023.0,2025-06-27
+415,Private,870,5,unclassified,11000000.0,7706.4,completed,2023.0,2025-01-03
+416,Private,498,3,unclassified,1000000.0,372.2,completed,2023.0,2025-06-13
+417,Private,239,4,unclassified,4000000.0,1044.8,completed,2023.0,2025-04-05
+418,Icon,834,2,2 beds,1932840.0,120.6,off_plan,2023.0,2025-02-10
+419,Private,769,3,unclassified,3050000.0,624.3,completed,2023.0,2025-04-25
+420,Private,242,4,unclassified,500000.0,716.5,court_mandated,2023.0,2025-02-14
+421,Bloom Gardens - Faya,227,5,4 beds,3350000.0,183.8,completed,2024.0,2026-01-14
+422,Private,622,4,unclassified,2300000.0,1114.8,completed,2024.0,2026-04-06
+423,Private,401,2,unclassified,650000.0,2025.0,completed,2023.0,2025-06-22
+424,Private,475,1,unclassified,620000.0,40000.0,completed,2023.0,2025-04-29
+425,Private,512,1,unclassified,300000.0,15400.0,completed,2024.0,2026-01-05
+426,Private,821,3,unclassified,1000000.0,1080.0,completed,2023.0,2025-05-18
+427,Private,571,3,unclassified,2000000.0,1050.1,completed,2023.0,2025-03-07
+428,Private,191,2,unclassified,85000000.0,17082.0,completed,2024.0,2026-05-18
+429,Private,834,5,unclassified,75432443.0,9406.3,completed,2024.0,2026-03-21
+430,Private,761,1,unclassified,70000.0,420.2,completed,2024.0,2026-06-26
+431,Al Gurm - Phase 1,803,3,unclassified,20000000.0,1748.4,completed,2023.0,2025-06-17
+432,Marina Sunset Bay (Villas),310,2,6+ beds,14000000.0,744.9,completed,2024.0,2026-05-03
+433,Private,778,2,unclassified,5000000.0,831.6,completed,2023.0,2025-02-15
+434,Tamouh (Plots),610,2,unclassified,36000000.0,3852.9,completed,2023.0,2025-06-20
+435,Private,662,1,unclassified,50000000.0,6503.0,completed,2023.0,2025-06-22
+436,Private,876,2,unclassified,1150000.0,33489.0,completed,2024.0,2026-01-22
+437,Private,583,2,unclassified,2400000.0,1094.9,completed,2024.0,2026-05-28
+438,Private,229,4,unclassified,5150000.0,1411.9,completed,2023.0,2025-03-14
+439,Private,334,3,unclassified,8615000.0,2309.2,court_mandated,2023.0,2025-02-01
+440,Boardwalk Residence,604,4,2 beds,1780000.0,132.2,completed,2023.0,2025-05-05
+441,Private,90,3,unclassified,2000000.0,1910.7,completed,2023.0,2025-05-11
+442,Private,378,4,unclassified,3000000.0,3510.2,completed,2023.0,2025-05-29
+443,Private,296,5,unclassified,400000.0,33474.1,completed,2023.0,2025-01-16
+444,Private,117,5,unclassified,1800000.0,1160.3,completed,2024.0,2026-04-01
+445,Private,399,2,unclassified,2000000.0,625.0,completed,2023.0,2025-05-19
+446,Private,146,5,unclassified,158333.34,460.7,completed,2024.0,2026-03-04
+447,Private,689,4,6+ beds,5000000.0,1264.2,completed,2023.0,2025-05-18
+448,Private,188,1,unclassified,22000000.0,10673.2,completed,2023.0,2025-06-04
+449,Private,574,5,unclassified,1000000.0,1062.8,completed,2024.0,2026-06-01
+450,Private,76,5,unclassified,1850000.0,893.4,completed,2024.0,2026-01-16
+451,Private,555,2,unclassified,2200000.0,1195.7,completed,2024.0,2026-05-08
+452,Private,203,5,unclassified,3650000.0,460.7,completed,2024.0,2026-04-09
+453,Al Raha Gardens - Al Mariah,714,2,unclassified,2300000.0,303.4,completed,2024.0,2026-06-02
+454,Private,435,5,unclassified,150000.0,22500.0,completed,2024.0,2026-03-13
+455,Golden Meadows (Plots),746,2,unclassified,1300000.0,2706.0,off_plan,2024.0,2026-05-15
+456,Private,421,1,unclassified,200000.0,6344.7,completed,2024.0,2026-05-15
+457,Private,201,3,unclassified,18000000.0,2079.2,completed,2024.0,2026-04-22
+458,Ghnaymah National Housing Project,275,2,unclassified,800000.0,263.2,completed,2023.0,2025-04-17
+459,Private,850,5,unclassified,5684000.0,3716.1,completed,2024.0,2026-04-05
+460,Private,50,3,unclassified,3600000.0,3456.0,completed,2024.0,2026-06-16
+461,Private,124,4,unclassified,1000000000.0,8895514.0,completed,2023.0,2025-02-27
+462,Private,628,3,unclassified,18679888.0,997.0,off_plan,2024.0,2026-05-26
+463,Private,652,3,unclassified,3000000.0,1393.6,completed,2023.0,2025-04-16
+464,Private,21,5,unclassified,3900000.0,27870.9,completed,2023.0,2025-06-19
+465,Private,152,5,unclassified,550000.0,15000.0,completed,2024.0,2026-03-04
+466,Private,109,3,unclassified,5000000.0,6650.0,completed,2024.0,2026-01-13
+467,Private,843,2,unclassified,10650000.0,2730.9,court_mandated,2024.0,2026-05-24
+468,Private,698,3,unclassified,650000.0,607.4,completed,2023.0,2025-06-08
+469,Private,626,3,unclassified,2130000.0,1114.8,completed,2023.0,2025-01-27
+470,Private,394,2,unclassified,1200000.0,386.7,completed,2024.0,2026-03-13
+471,Private,217,5,unclassified,2448000.0,3330.2,court_mandated,2024.0,2026-05-10
+472,Jamam Residence,540,3,2 beds,2700000.0,172.3,completed,2023.0,2025-05-05
+473,Private,659,2,unclassified,5040000.0,1253.2,court_mandated,2023.0,2025-05-31
+474,Private,143,3,unclassified,900000.0,1618.6,completed,2023.0,2025-06-27
+475,Al Raha Gardens - Muzerah,714,4,unclassified,2200000.0,286.8,completed,2023.0,2025-04-19
+476,Yas Island National Housing Project,828,5,5 beds,3300000.0,589.9,completed,2024.0,2026-01-02
+477,Private,145,4,unclassified,400000.0,581.2,completed,2024.0,2026-05-15
+478,Private,442,2,unclassified,80000.0,5892.6,completed,2023.0,2025-01-16
+479,Private,450,5,unclassified,400000.0,450.8,completed,2024.0,2026-04-02
+480,Private,413,3,unclassified,800000.0,18744.3,completed,2024.0,2026-05-06
+481,Private,79,5,unclassified,2705000.0,980.3,court_mandated,2023.0,2025-04-14
+482,Private,507,2,unclassified,100000.0,1214.9,completed,2024.0,2026-04-15
+483,Private,579,3,unclassified,500000.0,1120.1,completed,2023.0,2025-03-12
+484,Private,701,4,unclassified,1500000.0,1126.7,completed,2023.0,2025-04-24
+485,Yas Acres - The Redwoods,831,2,3 beds,4800000.0,311.7,completed,2023.0,2025-02-27
+486,Private,226,1,unclassified,6200000.0,789.0,completed,2024.0,2026-05-21
+487,Private,190,1,unclassified,88245000.0,10680.3,court_mandated,2024.0,2026-03-30
+488,Private,856,2,unclassified,10010000.0,2138.8,court_mandated,2023.0,2025-06-29
+489,Private,130,5,unclassified,1500000.0,899.2,completed,2024.0,2026-04-12
+490,Private,139,5,unclassified,1000000.0,275.8,completed,2023.0,2025-01-31
+491,Private,451,1,unclassified,320000.0,30945.0,completed,2023.0,2025-01-04
+492,Private,40,3,unclassified,1150000.0,1038.1,completed,2024.0,2026-05-26
+493,Private,256,2,unclassified,2000000.0,1295.2,completed,2024.0,2026-04-30
+494,One Reem Island,604,5,2 beds,3200000.0,175.6,completed,2024.0,2026-03-24
+495,West Yas - Precinct M (Plots),837,5,unclassified,5250000.0,985.0,completed,2023.0,2025-01-21
+496,Private,668,3,unclassified,4000000.0,1333.5,completed,2024.0,2026-02-04
+497,Private,632,5,unclassified,350000.0,454.4,completed,2024.0,2026-02-01
+498,Private,148,1,unclassified,250000.0,40000.1,completed,2023.0,2025-06-25
+499,Private,553,2,6+ beds,4122500.0,546.0,completed,2023.0,2025-06-06
+500,Private,663,4,unclassified,4500000.0,2159.8,completed,2023.0,2025-01-24
+501,Private,322,5,unclassified,22180000.0,3713.3,court_mandated,2024.0,2026-02-19
+502,Shams Abu Dhabi (Plots),604,1,unclassified,30000000.0,1826.5,completed,2023.0,2025-05-05
+503,Private,535,5,unclassified,13100000.0,2228.2,completed,2023.0,2025-04-21
+504,Saadiyat Lagoons - Phase 2 - Ethir,639,4,4 beds,8350000.0,500.7,off_plan,2024.0,2026-04-28
+505,Private,118,5,unclassified,20000000.0,1395.0,completed,2024.0,2026-04-29
+506,Private,748,2,unclassified,800000.0,1080.0,completed,2023.0,2025-06-11
+507,Private,63,3,unclassified,600000.0,168.3,completed,2024.0,2026-03-16
+508,West Yas - Precinct C,835,1,4 beds,6900000.0,482.3,completed,2024.0,2026-04-10
+509,Private,412,3,unclassified,800000.0,69025.0,completed,2024.0,2026-05-10
+510,Noya - Phase 3 - Luma,832,1,3 beds,2460252.94,187.4,completed,2023.0,2025-06-03
+511,Private,25,5,unclassified,6615000.0,3412.7,completed,2023.0,2025-06-22
+512,Private,506,5,unclassified,1900000.0,1269.0,completed,2023.0,2025-04-26
+513,Private,476,5,unclassified,1600000.0,688.1,completed,2023.0,2025-05-24
+514,Private,705,3,unclassified,790000.0,1340.8,completed,2024.0,2026-02-26
+515,Private,715,2,unclassified,15500000.0,2858.3,completed,2024.0,2026-04-20
+516,Private,556,3,unclassified,2000000.0,1373.3,completed,2024.0,2026-01-06
+517,Private,38,3,unclassified,750000.0,2124.8,completed,2024.0,2026-02-16
+518,Private,440,3,unclassified,200000.0,22500.0,completed,2024.0,2026-01-21
+519,Private,798,5,unclassified,6850000.0,751.8,court_mandated,2024.0,2026-01-20
+520,Private,292,5,unclassified,1900000.0,671.5,completed,2024.0,2026-02-24
+521,Ain Al Faydah - Phase 1 (Plots),7,4,unclassified,600000.0,111.3,completed,2023.0,2025-04-25
+522,Private,241,5,unclassified,1800000.0,360.0,completed,2024.0,2026-04-09
+523,Private,755,1,unclassified,4800000.0,1857.0,completed,2023.0,2025-05-12
+524,Yas Waterfront South (Plots),832,3,unclassified,26515280.0,3809.6,off_plan,2024.0,2026-01-10
+525,Private,573,3,unclassified,2200000.0,1061.9,completed,2024.0,2026-06-12
+526,Private,801,1,unclassified,43000000.0,7795.2,completed,2023.0,2025-04-25
+527,Nouran Living,648,4,2 beds,2814000.0,143.3,off_plan,2024.0,2026-03-16
+528,Yas Acres - The Dahlias 2,830,2,2 beds,3500000.0,214.4,off_plan,2024.0,2026-05-06
+529,Private,424,2,unclassified,60000.0,10350.0,completed,2024.0,2026-01-07
+530,Private,106,5,unclassified,1050000.0,33489.0,completed,2024.0,2026-03-17
+531,Private,432,4,unclassified,400000.0,40016.0,completed,2024.0,2026-03-02
+532,Private,60,2,unclassified,1500000.0,18544.0,completed,2024.0,2026-06-07
+533,Private,80,3,unclassified,1500000.0,700.0,completed,2023.0,2025-01-05
+534,Noya - Phase 1,832,4,3 beds,2950000.0,164.7,completed,2023.0,2025-04-19
+535,Private,522,5,unclassified,7500000.0,1253.1,completed,2023.0,2025-06-15
+536,Private,144,4,6+ beds,4400000.0,624.0,completed,2024.0,2026-02-06
+537,Private,357,2,unclassified,8500000.0,1671.0,completed,2023.0,2025-02-08
+538,Private,111,2,5 beds,5000000.0,305.6,completed,2023.0,2025-05-30
+539,Private,19,5,unclassified,4500000.0,23237.9,completed,2023.0,2025-03-22
+540,Saadiyat Grove - The Heart,647,1,2 beds,3709502.0,236.0,off_plan,2024.0,2026-02-23
+541,Sama Yas,832,4,2 beds,4888800.0,253.1,off_plan,2023.0,2025-03-03
+542,Private,186,4,unclassified,18015000.0,2598.9,court_mandated,2023.0,2025-05-07
+543,Private,125,2,4 beds,3700000.0,400.0,completed,2024.0,2026-06-28
+544,Al Jurf Gardens - Phase 1.3,52,3,4 beds,3959777.0,441.0,off_plan,2024.0,2026-05-07
+545,Private,265,1,unclassified,4550000.0,463.7,completed,2024.0,2026-05-15
+546,West Yas - Precinct H,839,2,4 beds,7500000.0,482.3,completed,2023.0,2025-05-20
+547,Private,434,2,unclassified,150000.0,13877.5,completed,2023.0,2025-06-08
+548,Private,426,1,unclassified,240000.0,12976.8,completed,2024.0,2026-01-26
+549,Private,550,4,3 beds,2800000.0,269.6,completed,2023.0,2025-03-18
+550,Private,39,4,unclassified,2150000.0,1842.9,completed,2024.0,2026-02-13
+551,Private,5,2,unclassified,200000.0,17864.2,completed,2023.0,2025-04-01
+552,Private,18,4,unclassified,2000000.0,1605.2,completed,2023.0,2025-01-13
+553,Private,754,2,unclassified,3000000.0,3969.0,completed,2024.0,2026-03-01
+554,Private,496,5,unclassified,180618.09,1718.8,completed,2024.0,2026-05-16
+555,Noya - Phase 2 - Viva,832,5,4 beds,2648225.34,204.1,completed,2023.0,2025-06-04
+556,Private,875,3,6+ beds,2500000.0,422.4,completed,2023.0,2025-02-04
+557,New York University Precinct (Plots),648,5,unclassified,33741900.0,5423.9,completed,2023.0,2025-01-05
+558,Private,184,4,unclassified,47000000.0,19534.7,completed,2024.0,2026-04-30
+559,The View,543,3,2 beds,2292000.0,187.9,completed,2023.0,2025-01-02
+560,Al Gurm - Phase 2 (Plots),803,2,unclassified,7659920.0,998.4,off_plan,2024.0,2026-05-03
+561,Private,345,5,unclassified,4250000.0,2926.4,completed,2024.0,2026-05-05
+562,Private,478,3,unclassified,650000.0,40038.4,completed,2023.0,2025-02-23
+563,Private,408,2,unclassified,1000000.0,100.0,completed,2023.0,2025-06-07
+564,Private,86,5,unclassified,2800000.0,668.1,completed,2024.0,2026-06-23
+565,Private,289,1,unclassified,350000.0,24.0,completed,2023.0,2025-03-22
+566,Private,20,1,unclassified,6860000.0,27870.9,completed,2023.0,2025-04-29
+567,Private,441,2,unclassified,4200000.0,104916.0,completed,2024.0,2026-05-15
+568,Private,513,2,unclassified,3605000.0,1701.6,court_mandated,2023.0,2025-02-21
+569,Private,546,1,unclassified,2200000.0,1143.7,completed,2024.0,2026-06-08
+570,Private,758,4,unclassified,1000000.0,1439.8,completed,2024.0,2026-06-12
+571,Private,202,5,unclassified,6530000.0,779.8,court_mandated,2023.0,2025-02-16
+572,West Yas - Precinct D,838,5,4 beds,4324162.5,494.5,completed,2024.0,2026-02-28
+573,Private,597,5,unclassified,150000.0,11746.2,completed,2024.0,2026-06-09
+574,Private,807,5,unclassified,9000000.0,1253.2,completed,2023.0,2025-02-11
+575,Private,175,2,unclassified,2030000.0,9690.5,court_mandated,2024.0,2026-04-08
+576,Private,734,5,unclassified,11000000.0,1736.2,completed,2024.0,2026-06-24
+577,Mamsha Gardens B,640,5,unclassified,12782100.0,29980.2,off_plan,2024.0,2026-04-06
+578,Private,800,1,unclassified,12000000.0,667.0,completed,2024.0,2026-01-21
+579,Private,205,4,unclassified,13000000.0,2078.2,completed,2023.0,2025-03-05
+580,Private,511,2,unclassified,500000.0,18352.0,completed,2024.0,2026-01-08
+581,Watani,713,3,unclassified,1000000.0,740.6,completed,2023.0,2025-03-17
+582,Private,170,4,unclassified,1600000.0,34564.0,completed,2024.0,2026-05-31
+583,Private,299,4,unclassified,1500000.0,197.8,completed,2023.0,2025-03-13
+584,Al Qurm Gardens,227,1,6+ beds,2800000.0,411.0,completed,2023.0,2025-05-16
+585,Private,665,4,unclassified,9000000.0,2599.7,completed,2023.0,2025-06-22
+586,Private,817,2,unclassified,2300000.0,452.7,completed,2023.0,2025-03-08
+587,Private,702,3,unclassified,5000000.0,983.3,completed,2024.0,2026-05-25
+588,Private,10,1,unclassified,20000.0,10401.8,completed,2023.0,2025-02-16
+589,Private,470,4,unclassified,250000.0,15529.0,completed,2023.0,2025-04-17
+590,Private,805,1,unclassified,2780000.0,649.8,completed,2023.0,2025-04-09
+591,Al Reef Infrastructure - Cooling Station,102,4,unclassified,20000000.0,2308.9,completed,2024.0,2026-02-16
+592,Private,395,2,unclassified,20000.0,2876.9,completed,2023.0,2025-05-30
+593,Private,416,2,unclassified,500000.0,22405.4,completed,2023.0,2025-01-21
+594,Private,735,1,unclassified,350000.0,14264.9,completed,2023.0,2025-01-10
+595,Private,463,4,unclassified,120000.0,2890.8,completed,2023.0,2025-01-27
+596,Private,619,3,unclassified,2200000.0,1114.8,completed,2024.0,2026-01-05
+597,Private,366,3,unclassified,4500000.0,3117.7,completed,2023.0,2025-05-14
+598,Private,504,3,unclassified,225000.0,1200.0,completed,2023.0,2025-02-13
+599,Private,438,1,unclassified,650000.0,39918.6,completed,2024.0,2026-01-08
+600,Private,767,1,unclassified,8575000.0,1039.6,completed,2023.0,2025-04-26
+601,Private,208,3,unclassified,400000000.0,108202.8,completed,2024.0,2026-01-13
+602,Private,686,3,unclassified,3700000.0,790.7,completed,2023.0,2025-01-07
+603,Private,660,4,6+ beds,8000000.0,1441.5,completed,2023.0,2025-03-14
+604,Private,848,2,unclassified,7650000.0,1633.9,completed,2024.0,2026-06-05
+605,Private,483,1,unclassified,450000.0,25182.0,completed,2023.0,2025-05-05
+606,Private,456,4,unclassified,300000.0,5353.7,completed,2023.0,2025-02-05
+607,Private,561,3,unclassified,4750000.0,587.0,completed,2023.0,2025-03-30
+608,Private,427,4,unclassified,280000.0,29184.0,completed,2023.0,2025-02-17
+609,Private,220,2,unclassified,1350000.0,903.2,completed,2023.0,2025-04-27
+610,Private,42,5,unclassified,500000.0,581.8,completed,2024.0,2026-03-04
+611,West Yas - Precinct A,835,2,4 beds,68000.0,482.3,completed,2023.0,2025-06-06
+612,Saadiyat Reserve (Plots),639,4,unclassified,5200000.0,612.0,completed,2024.0,2026-04-05
+613,Private,634,2,unclassified,1500000.0,49152.0,completed,2023.0,2025-01-02
+614,Saadiyat Beach Villas,641,3,4 beds,6900000.0,351.0,completed,2023.0,2025-06-12
+615,Private,709,5,unclassified,8000000.0,3523.3,completed,2024.0,2026-01-22
+616,Private,863,5,unclassified,6600000.0,1566.7,completed,2023.0,2025-04-16
+617,Private,189,4,unclassified,75902315.0,7484.4,completed,2024.0,2026-06-14
+618,Private,33,2,unclassified,2100000.0,480.0,completed,2024.0,2026-05-26
+619,Private,844,5,unclassified,7500000.0,780.1,completed,2024.0,2026-05-05
+620,Private,851,5,unclassified,8500000.0,819.7,completed,2023.0,2025-01-31
+621,Private,533,5,unclassified,8000000.0,1949.4,completed,2024.0,2026-05-01
+622,Private,340,5,6+ beds,4450000.0,623.0,completed,2023.0,2025-06-23
+623,Private,536,1,unclassified,1515762070.0,1669576.6,completed,2024.0,2026-06-20
+624,Private,559,5,unclassified,2000000.0,1060.0,completed,2024.0,2026-04-16
+625,Private,564,5,unclassified,65000000.0,7200.0,completed,2024.0,2026-03-15
+626,Private,759,3,unclassified,2600000.0,292.7,completed,2023.0,2025-03-30
+627,Masdar City - Phase 1 (Plots),678,4,maxi (over 1000 sqm),79589512.0,5045.0,completed,2024.0,2026-04-12
+628,Private,31,1,unclassified,1300000.0,22500.0,completed,2023.0,2025-05-01
+629,Private,372,2,unclassified,4000000.0,2487.0,completed,2024.0,2026-03-05
+630,Private,43,2,unclassified,1500000.0,33483.0,completed,2023.0,2025-04-19
+631,Saadiyat Beach District (Plots),641,4,4 beds,6300000.0,351.0,completed,2024.0,2026-06-10
+632,Private,635,5,unclassified,2100000.0,370.5,completed,2024.0,2026-02-21
+633,Sky Gardens Tower,606,2,3 beds,1243601.1,150.9,off_plan,2024.0,2026-01-16
+634,C3 Garden,646,3,3 beds,2989000.0,248.8,completed,2024.0,2026-01-11
+635,Private,545,3,unclassified,3100000.0,248.4,completed,2023.0,2025-06-29
+636,Private,716,5,unclassified,8200000.0,1295.3,completed,2023.0,2025-02-04
+637,Private,65,4,unclassified,1900000.0,74466.0,completed,2023.0,2025-05-12
+638,Private,259,3,unclassified,3000000.0,358.1,completed,2023.0,2025-02-14
+639,Private,336,3,6+ beds,5200000.0,650.0,completed,2024.0,2026-02-19
+640,Private,815,4,unclassified,5000000.0,433.8,completed,2023.0,2025-03-12
+641,Private,796,3,unclassified,3000000.0,367.4,completed,2023.0,2025-03-20
+642,Private,414,2,unclassified,290000.0,39973.7,completed,2024.0,2026-05-06
+643,Private,685,5,unclassified,2056451.62,2294.1,court_mandated,2024.0,2026-05-05
+644,Private,791,5,6+ beds,14000000.0,1663.9,completed,2024.0,2026-02-01
+645,Private,806,2,unclassified,14999985.0,1797.1,court_mandated,2024.0,2026-02-08
+646,West Yas - Precinct Q (Plots),836,3,unclassified,5000000.0,990.1,completed,2023.0,2025-06-04
+647,Private,695,3,unclassified,2700000.0,1256.9,completed,2023.0,2025-05-14
+648,Private,27,1,unclassified,1450000.0,33489.0,completed,2023.0,2025-04-25
+649,Private,855,1,unclassified,8560000.0,2061.0,court_mandated,2024.0,2026-04-15
+650,Private,692,1,unclassified,2400000.0,624.0,completed,2023.0,2025-02-13
+651,Al Falah Village,2,1,unclassified,4000000.0,807.8,completed,2023.0,2025-05-07
+652,Private,474,3,unclassified,700000.0,40000.0,completed,2024.0,2026-06-13
+653,Private,866,1,unclassified,6000000.0,1671.3,completed,2024.0,2026-01-25
+654,Bawabat Al Sharq - Phase 1,252,4,6+ beds,3200000.0,571.1,completed,2024.0,2026-05-02
+655,Private,308,3,unclassified,100000.0,4418.8,completed,2023.0,2025-06-21
+656,Private,608,2,unclassified,48300000.0,5197.0,completed,2023.0,2025-04-29
+657,Private,799,5,6+ beds,47656.25,600.0,court_mandated,2024.0,2026-05-30
+658,Private,193,4,unclassified,13000000.0,4455.1,completed,2024.0,2026-05-20
+659,Yas Acres - The Dahlias,830,2,2 beds,2523708.94,207.5,off_plan,2024.0,2026-04-14
+660,Private,859,1,4 beds,5000000.0,450.0,completed,2024.0,2026-03-18
+661,Private,576,1,unclassified,2000000.0,1147.4,completed,2024.0,2026-04-30
+662,Private,204,3,unclassified,16000000.0,2078.5,completed,2023.0,2025-02-18
+663,Private,113,1,unclassified,1550000.0,155.8,completed,2024.0,2026-05-26
+664,Private,271,2,unclassified,4000000.0,3997.4,completed,2024.0,2026-05-21
+665,Private,487,3,unclassified,700000.0,17687.0,completed,2023.0,2025-01-12
+666,Private,389,1,unclassified,1300000.0,625.0,completed,2024.0,2026-02-19
+667,Private,633,2,unclassified,200000.0,1167.8,completed,2024.0,2026-04-06
+668,Private,443,4,unclassified,150000.0,3102.8,completed,2023.0,2025-03-03
+669,Private,17,2,unclassified,19006.0,33376.0,completed,2023.0,2025-01-19
+670,Private,64,4,unclassified,50000.0,33489.0,completed,2024.0,2026-05-03
+671,Private,272,3,unclassified,572000000.0,53381.7,completed,2023.0,2025-05-20
+672,Private,631,1,unclassified,800000.0,1820.0,completed,2024.0,2026-06-23
+673,Ohana Villas,52,1,3 beds,4500000.0,277.8,off_plan,2024.0,2026-01-25
+674,Yas Beach Residence,834,3,1 bed,700000.0,73.5,off_plan,2024.0,2026-01-06
+675,Private,670,3,unclassified,18000000.0,3533.3,completed,2023.0,2025-05-04
+676,Private,342,4,6+ beds,6347000.0,928.9,completed,2023.0,2025-01-13
+677,Private,654,4,unclassified,4500000.0,308.6,completed,2024.0,2026-03-06
+678,Private,680,2,unclassified,14400000.0,1670.9,completed,2024.0,2026-03-03
+679,Private,24,3,unclassified,1450000.0,26542.6,completed,2024.0,2026-02-28
+680,Private,771,4,unclassified,4600000.0,1484.8,completed,2024.0,2026-02-25
+681,Private,403,3,unclassified,4800000.0,708.7,completed,2024.0,2026-04-08
+682,Private,231,3,unclassified,10000000.0,8539.7,completed,2024.0,2026-05-19
+683,Private,368,1,unclassified,4200000.0,3307.4,completed,2023.0,2025-02-27
+684,Al Jurf Gardens - Phase 3A,52,3,4 beds,5458777.0,300.8,off_plan,2024.0,2026-01-08
+685,Private,293,1,unclassified,15000000.0,2121.5,completed,2023.0,2025-04-25
+686,Manarat Living II,647,1,2 beds,3394200.0,172.4,off_plan,2023.0,2025-02-03
+687,Private,277,3,unclassified,1480000.0,33489.0,completed,2024.0,2026-02-24
+688,Private,171,5,unclassified,950000.0,15000.0,completed,2024.0,2026-04-21
+689,Private,467,2,unclassified,100000.0,10733.3,completed,2024.0,2026-04-11
+690,Private,669,1,unclassified,14000000.0,2599.5,completed,2023.0,2025-02-08
+691,Private,405,2,unclassified,3700000.0,5575.4,completed,2023.0,2025-04-06
+692,Private,406,3,unclassified,2900000.0,557.0,completed,2024.0,2026-01-09
+693,Al Jurf Gardens - Phase 1.4,52,1,5 beds,7236777.0,495.5,off_plan,2024.0,2026-04-28
+694,Private,22,2,unclassified,5300000.0,1278.0,completed,2023.0,2025-02-14
+695,Private,802,2,unclassified,2000000.0,853.8,completed,2023.0,2025-02-07
+696,Private,254,3,unclassified,2100000.0,767.8,completed,2023.0,2025-06-24
+697,Private,283,3,unclassified,2000000.0,831.7,completed,2023.0,2025-01-22
+698,Private,325,3,unclassified,84410000.0,4726.0,completed,2023.0,2025-05-20
+699,Private,352,3,unclassified,4100000.0,2025.2,completed,2023.0,2025-03-05
+700,Private,235,4,unclassified,2500000.0,371.5,completed,2023.0,2025-03-21
+701,Private,760,4,unclassified,1500000.0,2769.8,completed,2024.0,2026-05-09
+702,Private,830,2,unclassified,30000000.0,44851.7,completed,2024.0,2026-01-19
+703,Private,827,2,unclassified,17045082.0,3502.3,completed,2024.0,2026-05-03
+704,Ville 11,675,2,3 beds,2073883.0,186.9,off_plan,2024.0,2026-05-11
+705,Private,196,5,unclassified,7000000.0,696.1,completed,2023.0,2025-03-19
+706,Private,215,1,unclassified,9454500.0,1597.6,court_mandated,2024.0,2026-02-16
+707,West Yas - Precinct E,839,4,5 beds,7600000.0,552.6,completed,2024.0,2026-01-13
+708,Private,872,2,unclassified,3000000.0,975.3,completed,2024.0,2026-02-22
+709,Ain Al Faydah - Phase 2 (Plots),8,4,unclassified,530000.0,532.3,off_plan,2024.0,2026-03-21
+710,Private,45,3,unclassified,4000000.0,657.2,completed,2024.0,2026-03-05
+711,West Yas - Precinct L,836,2,4 beds,6300000.0,503.8,completed,2024.0,2026-02-24
+712,Private,274,2,unclassified,2400000.0,1903.7,completed,2023.0,2025-05-04
+713,Private,176,3,5 beds,2600000.0,1219.9,completed,2024.0,2026-05-04
+714,Private,691,2,unclassified,5200000.0,795.2,completed,2024.0,2026-01-21
+715,Private,263,1,5 beds,3255000.0,306.0,court_mandated,2023.0,2025-04-13
+716,Private,477,2,unclassified,350000.0,35967.4,completed,2024.0,2026-04-01
+717,Private,91,1,unclassified,2100000.0,1681.6,completed,2024.0,2026-04-15
+718,Saadiyat Beach Residences - Block 4,641,1,3 beds,3250000.0,201.1,completed,2024.0,2026-05-18
+719,Yas Acres - Precinct 8,827,1,unclassified,17213044.0,3548.4,completed,2024.0,2026-02-22
+720,Private,319,5,unclassified,5000000.0,10350.4,completed,2024.0,2026-03-31
+721,Private,335,2,unclassified,2500000.0,1745.5,completed,2024.0,2026-04-19
+722,Private,44,1,unclassified,1250000.0,33456.5,completed,2023.0,2025-01-26
+723,Private,214,4,unclassified,6825000.0,742.4,completed,2023.0,2025-01-03
+724,Private,744,5,unclassified,1900000.0,167.6,completed,2023.0,2025-05-28
+725,Private,172,2,unclassified,7000000.0,4221.0,court_mandated,2023.0,2025-05-11
+726,Private,329,2,unclassified,700000.0,726.1,completed,2023.0,2025-06-08
+727,Private,738,3,unclassified,400000.0,1597.2,completed,2024.0,2026-06-04
+728,Private,218,2,5 beds,3700000.0,520.3,completed,2023.0,2025-02-16
+729,Private,585,1,unclassified,800000.0,1065.3,completed,2023.0,2025-02-09
+730,Private,348,5,5 beds,2500000.0,2090.3,completed,2023.0,2025-04-20
+731,Private,747,2,unclassified,180000.0,1727.9,completed,2024.0,2026-06-02
+732,Private,404,3,unclassified,3179000.0,1820.6,completed,2023.0,2025-06-08
+733,Private,860,1,unclassified,2000000.0,1443.8,completed,2023.0,2025-03-16
+734,Private,757,1,unclassified,600000.0,1847.8,completed,2024.0,2026-04-29
+735,Al Falah Village,0,4,unclassified,2800000.0,277.2,completed,2023.0,2025-05-03
+736,Private,743,2,unclassified,230000.0,570.0,completed,2023.0,2025-03-22
+737,Private,710,3,6+ beds,3500000.0,1501.0,completed,2024.0,2026-01-16
+738,Private,587,3,unclassified,1900000.0,1049.9,completed,2023.0,2025-05-28
+739,Private,781,3,unclassified,11500000.0,1606.5,completed,2024.0,2026-05-16
+740,Private,582,2,unclassified,1800000.0,1190.0,completed,2024.0,2026-06-06
+741,W Residences Abu Dhabi,325,5,unclassified,40740000.0,5128.6,off_plan,2024.0,2026-05-04
+742,Private,77,5,unclassified,100000.0,1090.5,completed,2024.0,2026-06-26
+743,Private,88,2,unclassified,3000000.0,23225.8,completed,2024.0,2026-06-25
+744,Private,248,4,unclassified,158000.0,1214.4,completed,2023.0,2025-03-25
+745,Private,551,1,unclassified,1930000.0,1095.5,completed,2024.0,2026-06-15
+746,Shams Abu Dhabi (Plots),603,5,unclassified,500000.0,2664.0,completed,2024.0,2026-05-29
+747,Private,126,5,unclassified,2000000.0,1243.8,completed,2023.0,2025-03-31
+748,Private,667,3,unclassified,7300000.0,3716.1,completed,2024.0,2026-06-19
+749,Private,503,1,unclassified,2400000.0,600.2,completed,2024.0,2026-02-23
+750,Private,59,4,5 beds,1100000.0,500.0,completed,2024.0,2026-04-28
+751,Private,490,4,unclassified,450000.0,40000.0,completed,2023.0,2025-05-23
+752,Private,236,1,unclassified,6200000.0,1295.2,completed,2024.0,2026-01-17
+753,Private,294,1,unclassified,1500000.0,708.1,completed,2024.0,2026-02-24
+754,Private,707,2,unclassified,6000000.0,597.8,completed,2023.0,2025-05-26
+755,Private,304,4,unclassified,135625600.0,67219.0,completed,2024.0,2026-01-15
+756,Private,591,3,unclassified,10200000.0,4180.6,completed,2024.0,2026-01-04
+757,Private,466,5,unclassified,180000.0,2571.0,completed,2024.0,2026-03-24
+758,Private,846,2,unclassified,4900000.0,3716.1,completed,2024.0,2026-01-06
+759,Private,531,3,unclassified,6160000.0,890.5,court_mandated,2023.0,2025-04-09
+760,Private,711,4,unclassified,8400000.0,2339.6,court_mandated,2024.0,2026-01-11
+761,Private,258,4,unclassified,4000000.0,243.2,completed,2024.0,2026-05-26
+762,Private,95,5,unclassified,200000.0,4200.0,completed,2023.0,2025-03-11
+763,Private,742,4,unclassified,2000000.0,458.5,completed,2024.0,2026-03-31
+764,Private,291,1,3 beds,2100000.0,301.9,completed,2024.0,2026-01-06
+765,"The St. Regis Saadiyat Island Resort, St. Regis Residences",640,1,3 beds,5600000.0,302.2,completed,2024.0,2026-03-02
+766,Hills Abu Dhabi,804,4,5 beds,4800000.0,481.9,completed,2023.0,2025-06-01
+767,Al Mahra Residence,678,4,2 beds,842821.27,119.3,off_plan,2024.0,2026-06-25
+768,Private,465,2,unclassified,400000.0,40000.0,completed,2024.0,2026-06-16
+769,Private,523,5,unclassified,8500000.0,921.7,completed,2024.0,2026-03-31
+770,Yas Bay (Plots),834,4,unclassified,20000000.0,10657.5,completed,2024.0,2026-06-24
+771,Al Raha Gardens - Hemayem,679,2,unclassified,3200000.0,414.2,completed,2024.0,2026-03-09
+772,Private,98,5,unclassified,500000.0,32933.5,completed,2024.0,2026-01-29
+773,Yasmina Residence,603,1,3 beds,3070000.0,194.7,completed,2024.0,2026-03-16
+774,Private,623,3,unclassified,4650000.0,336.4,completed,2024.0,2026-06-23
+775,Saadiyat Lagoons - Phase 2 - Al Sidr,638,3,unclassified,98899520.0,24682.7,completed,2024.0,2026-04-22
+776,Qaryat Al Hidd - Garden Residence 6,646,3,3 beds,2000000.0,235.9,completed,2024.0,2026-04-10
+777,Private,7,1,unclassified,1500000.0,233.9,completed,2023.0,2025-01-12
+778,Private,458,1,unclassified,80000.0,1172.0,completed,2023.0,2025-06-08
+779,Private,610,1,unclassified,28500000.0,5014.2,court_mandated,2022.0,2024-05-10
+780,Private,612,2,4 beds,4015000.0,361.1,off_plan,2023.0,2025-06-18
+781,Private,140,2,unclassified,6900000.0,23238.0,completed,2023.0,2025-05-19
+782,Private,603,1,1 bed,1050000.0,93.6,completed,2023.0,2025-02-25
+783,Private,600,2,3 beds,2150000.0,180.5,completed,2022.0,2024-02-13
+784,Private,213,4,unclassified,5750000.0,445.5,completed,2023.0,2025-01-17
+785,West Yas - Precinct G,838,4,5 beds,6600000.0,552.6,completed,2023.0,2025-01-17
+786,Private,57,1,unclassified,1250000.0,17908.0,completed,2023.0,2025-03-21
+787,Private,594,4,1 bed,660000.0,73.0,completed,2023.0,2025-05-17
+788,Private,624,4,unclassified,1000000.0,1114.8,completed,2022.0,2024-01-31
+789,Private,611,3,4 beds,3852800.0,361.1,off_plan,2022.0,2024-03-03
+790,Private,361,1,unclassified,2050000.0,1393.6,completed,2022.0,2024-05-04
+791,Private,338,4,unclassified,5600000.0,668.4,completed,2023.0,2025-02-09
+792,Private,599,4,unclassified,54026273.0,4062.1,completed,2023.0,2025-02-08
+793,Private,557,4,unclassified,2100000.0,1050.0,completed,2023.0,2025-03-29
+794,Private,773,1,unclassified,1763750.0,423.4,completed,2023.0,2025-04-05
+795,Private,601,2,2 beds,2207940.0,139.7,off_plan,2023.0,2025-06-26
+796,Private,56,3,unclassified,1520000.0,889.5,completed,2023.0,2025-02-28
+797,Private,719,3,unclassified,4800000.0,1904.5,completed,2022.0,2024-04-30
+798,Private,89,2,unclassified,18750000.0,90129.4,completed,2023.0,2025-02-05
+799,Private,604,2,2 beds,2699490.0,151.2,completed,2023.0,2025-02-02
+800,Private,818,1,unclassified,2460000.0,806.7,completed,2022.0,2024-05-22
+801,Private,549,3,unclassified,3950000.0,297.6,completed,2023.0,2025-05-09
+802,Private,460,3,unclassified,50000.0,804.1,completed,2022.0,2024-01-08
+803,Private,658,5,unclassified,7000000.0,759.1,completed,2022.0,2024-06-02
+804,Private,562,1,unclassified,5900000.0,448.5,completed,2022.0,2024-03-12
+805,Private,607,4,studio,650000.0,39.7,completed,2022.0,2024-05-07
+806,Private,127,4,unclassified,1500000.0,33546.0,completed,2022.0,2024-02-02
+807,Private,51,1,unclassified,952000.0,59526.4,completed,2022.0,2024-05-04
+808,Private,862,2,5 beds,4300000.0,400.0,completed,2022.0,2024-06-09
+809,Private,589,4,unclassified,2200000.0,1050.3,completed,2023.0,2025-06-09
+810,Private,823,4,unclassified,380000.0,8985.4,completed,2022.0,2024-06-20
+811,Private,606,2,studio,599206.0,43.7,off_plan,2023.0,2025-06-01
+812,Private,284,2,unclassified,3000000.0,1227.3,completed,2022.0,2024-01-27
+813,Private,358,4,unclassified,52929999.0,48400.0,completed,2023.0,2025-03-03
+814,Private,281,3,unclassified,3500000.0,499.7,completed,2022.0,2024-03-23
+815,Private,101,4,unclassified,4650000.0,1511.0,court_mandated,2023.0,2025-02-10
+816,Private,417,4,unclassified,350000.0,22497.0,completed,2022.0,2024-05-28
+817,Private,708,1,unclassified,4750000.0,1858.1,completed,2023.0,2025-02-05
+818,Reem Diamond Residence,604,3,unclassified,52000000.0,10113.8,completed,2023.0,2025-05-18
+819,Private,764,4,unclassified,227900000.0,24688.0,completed,2022.0,2024-01-06
+820,Private,351,5,6+ beds,7920000.0,700.0,completed,2023.0,2025-06-29
+821,Private,155,3,6+ beds,257000.0,2799.1,completed,2023.0,2025-01-14
+822,Private,423,4,unclassified,50000.0,3850.9,completed,2023.0,2025-03-17
+823,Al Raha Beach (Plots),544,5,unclassified,215000000.0,95286.2,completed,2022.0,2024-01-12
+824,Jawaher Al Saadiyat,640,3,unclassified,13074800.0,1437.7,completed,2022.0,2024-05-31
+825,Private,29,2,unclassified,8000000.0,1321.4,completed,2022.0,2024-04-14
+826,Private,783,5,unclassified,3000000.0,1188.2,completed,2022.0,2024-02-22
+827,Private,386,4,unclassified,1100000.0,3229.4,completed,2022.0,2024-06-02
+828,Wahat Al Zaweya,745,4,unclassified,23000000.0,4500.0,off_plan,2023.0,2025-02-09
+829,Private,211,4,unclassified,7200000.0,2079.3,completed,2023.0,2025-05-07
+830,Private,122,4,unclassified,1300000.0,199.8,completed,2022.0,2024-05-21
+831,Private,868,3,6+ beds,4410000.0,712.4,completed,2022.0,2024-02-24
+832,Private,400,2,unclassified,5000000.0,3341.0,completed,2022.0,2024-04-19
+833,Private,548,3,unclassified,2025000.0,1050.0,completed,2023.0,2025-04-21
+834,Private,481,3,unclassified,400000.0,39835.8,completed,2022.0,2024-05-06
+835,Private,464,3,unclassified,400000.0,27179.0,completed,2022.0,2024-01-21
+836,Private,47,2,unclassified,1100000.0,945.0,completed,2022.0,2024-06-10
+837,Private,397,2,unclassified,1750000.0,963.5,completed,2022.0,2024-01-08
+838,Al Raha Gardens - Al Ward,679,3,5 beds,3500000.0,400.0,completed,2023.0,2025-06-19
+839,Private,255,4,unclassified,3850000.0,466.1,completed,2023.0,2025-05-01
+840,Prestige Towers,319,5,medium (50 to 500 sqm),5000000.0,449.3,completed,2022.0,2024-06-13
+841,Private,664,4,unclassified,6250000.0,3716.1,completed,2022.0,2024-01-30
+842,Private,693,5,unclassified,4750000.0,1044.5,completed,2023.0,2025-06-08
+843,Private,700,2,unclassified,4505000.0,756.4,court_mandated,2022.0,2024-05-28
+844,Private,453,3,unclassified,432000.0,40000.0,completed,2022.0,2024-02-26
+845,Private,425,4,unclassified,300000.0,38962.3,completed,2023.0,2025-05-25
+846,Private,581,1,unclassified,1800000.0,1094.9,completed,2023.0,2025-01-07
+847,Mamsha Al Saadiyat - Lilac,640,1,1 bed,2179787.14,136.0,off_plan,2022.0,2024-04-02
+848,Mamsha Al Saadiyat - Azure,640,3,3 beds,2998330.0,175.9,completed,2022.0,2024-06-17
+849,Desert Towers (Plots),321,5,unclassified,12188824.0,4243.2,completed,2023.0,2025-06-28
+850,Private,344,5,unclassified,2500000.0,1561.0,completed,2022.0,2024-02-22
+851,Merzab Community,118,5,1 bed,1081800.0,102.9,off_plan,2023.0,2025-03-04
+852,Private,121,3,unclassified,175000.0,33462.8,completed,2023.0,2025-01-18
+853,Private,501,4,unclassified,350000.0,26.1,completed,2023.0,2025-01-18
+854,Private,697,5,unclassified,4730850.0,2214.0,completed,2023.0,2025-04-03
+855,"Fairmont Residences, Rixos Marina",310,5,2 beds,2757966.16,144.6,completed,2022.0,2024-04-18
+856,Private,419,5,unclassified,340000.0,40000.9,completed,2022.0,2024-03-26
+857,Private,128,2,unclassified,3500000.0,1473.3,completed,2022.0,2024-01-11
+858,Private,873,4,unclassified,5000000.0,3716.1,completed,,
+859,Private,55,1,unclassified,3200000.0,632.0,completed,,
+860,Private,142,3,unclassified,2824997.18,721.0,court_mandated,,
+861,Private,250,4,unclassified,3290000.0,253.1,court_mandated,,
+862,Private,268,2,unclassified,1760000.0,629.0,completed,,
+863,Al Bateen Park Plaza,775,4,3 beds,2600000.0,222.0,completed,,
+864,Nudra Beach Villas,640,1,4 beds,10036777.0,855.0,off_plan,,
+865,Private,141,5,unclassified,3200000.0,177.3,completed,,
+866,Private,489,4,unclassified,320000.0,39611.0,completed,,
+867,Danat Abu Dhabi (Plots),222,3,unclassified,170000000.0,21627.7,completed,,
+868,Private,168,4,unclassified,40000.0,5670.4,completed,,
+869,Private,651,3,5 beds,2880000.0,860.7,completed,,
+870,Private,575,3,unclassified,100000.0,1050.0,completed,,
+871,Hidd Al Saadiyat - Ras Al Hidd,646,2,6+ beds,85000000.0,4864.1,completed,,
+872,Private,741,4,unclassified,600000.0,1591.4,completed,,
+873,Private,813,5,unclassified,41625000.0,13924.2,completed,,
+874,Private,275,1,unclassified,2000000.0,529.7,completed,,
+875,Private,649,1,unclassified,4650000.0,2231.8,completed,,
+876,Private,521,5,unclassified,6000000.0,1350.0,completed,,
+877,Private,411,1,unclassified,230000.0,12567.2,completed,,
+878,Saadiyat Beach District (Plots),645,5,unclassified,45000000.0,8397.1,completed,,
+879,Private,84,3,unclassified,4000000.0,33489.0,completed,,
+880,Private,625,5,6+ beds,3800000.0,500.0,completed,,
+881,Private,96,3,5 beds,5150000.0,422.0,completed,,
+882,Private,568,4,unclassified,2000000.0,1062.8,completed,,
+883,Private,337,1,6+ beds,7000000.0,2232.0,completed,,
+884,Private,232,1,unclassified,200000000.0,60503.4,completed,,
+885,Private,350,1,unclassified,3200000.0,1440.0,completed,,
+886,Private,655,4,unclassified,6000000.0,3716.1,completed,,
+887,Private,621,3,unclassified,2500000.0,1114.8,completed,,
+888,Private,493,4,unclassified,100000.0,12286.8,completed,,
+889,Private,765,4,unclassified,195000000.0,34807.8,completed,,
+890,West Yas - Precinct N (Plots),837,1,unclassified,4200000.0,979.9,completed,,
+891,Private,288,1,unclassified,600000.0,368.5,completed,,
+892,Private,786,4,unclassified,6500000.0,1839.5,completed,,
+893,Private,617,3,unclassified,4000000.0,1207.1,completed,,
+894,Private,505,4,unclassified,4000000.0,968.0,completed,,
+895,Private,222,1,unclassified,90305856.19,10895.8,court_mandated,,
+896,Private,207,5,unclassified,16000000.0,2506.4,completed,,
+897,Private,763,3,unclassified,500000.0,11999.8,completed,,
+898,Private,129,2,5 beds,4300000.0,450.0,completed,,
+899,Private,285,4,unclassified,1850000.0,534.6,completed,,
+900,Private,820,2,unclassified,900000.0,1079.4,completed,,
+901,Motor World Abu Dhabi,697,1,unclassified,26314943.0,11714.6,completed,,
+902,Private,356,5,unclassified,43500000.0,24000.7,completed,,
+903,Private,4,1,unclassified,6000000.0,10119.7,completed,,
+904,Private,228,4,unclassified,15400000.0,2599.0,completed,,
+905,Private,775,2,unclassified,5300000.0,668.2,completed,,
+906,Private,363,3,unclassified,10500000.0,2599.6,completed,,
+907,Private,722,3,unclassified,666664.0,888.2,completed,,
+908,Al Bateen Park (Villas),775,1,4 beds,2000000.0,474.8,completed,,
+909,Private,752,4,unclassified,5500000.0,1733.0,completed,,
+910,Private,349,5,unclassified,6900000.0,448.8,completed,,
+911,Private,116,5,5 beds,3100000.0,508.0,completed,,
+912,Private,687,4,unclassified,192558.7,1686.3,completed,,
+913,Private,415,2,unclassified,300000.0,14700.0,completed,,
+914,Private,156,3,unclassified,2700000.0,65996.0,completed,,
+915,Private,343,3,unclassified,3300000.0,1858.1,completed,,
+916,Hidd Al Saadiyat - Al Seef,646,5,6+ beds,18000000.0,964.8,completed,,
+917,Private,300,4,unclassified,200000.0,1773.6,completed,,
+918,Private,393,1,unclassified,1200000.0,83.8,completed,,
+919,Private,819,3,unclassified,1132100.0,972.4,court_mandated,,
+920,Private,816,5,unclassified,2800000.0,276.7,completed,,
+921,Private,164,2,unclassified,100000.0,2500.0,completed,,
+922,Hidd Al Saadiyat - Al Suhoul,646,3,5 beds,8000000.0,560.1,completed,,
+923,Mamsha Al Saadiyat - Turquoise,640,1,3 beds,5279200.0,303.1,completed,,
+924,Private,360,1,unclassified,3400000.0,1932.4,completed,,
+925,Private,249,2,5 beds,2000000.0,242.0,court_mandated,,
+926,Private,865,3,unclassified,4700000.0,4773.8,completed,,
+927,Private,688,1,unclassified,3950000.0,455.0,completed,,
+928,Private,257,1,4 beds,3500000.0,400.0,completed,,
+929,Private,471,1,unclassified,100000.0,8663.0,completed,,
+930,Private,495,2,unclassified,1500000.0,1084.8,completed,,
+931,Saadiyat Beach District (Plots),644,5,unclassified,300000000.0,146714.1,completed,,
+932,Private,736,5,unclassified,300000.0,427.3,completed,,
+933,Private,615,2,unclassified,2500000.0,1114.8,completed,,
+934,Private,723,4,unclassified,4800000.0,896.4,completed,,
+935,Al Reef Infrastructure - Service Station,102,1,line store,6231771.8,325.8,completed,,
+936,Private,749,1,unclassified,1000000.0,648.2,completed,,
+937,Private,792,2,unclassified,450000.0,800.5,completed,,
+938,Private,532,3,unclassified,7250000.0,1379.8,completed,,
+939,Saadiyat Beach District (Plots),643,2,4 beds,6320000.0,404.0,completed,,
+940,Private,682,3,unclassified,12700000.0,1393.6,completed,,
+941,Private,290,2,unclassified,7000000.0,1313.6,completed,,
+942,Private,595,5,unclassified,74096000.0,5730.0,completed,,
+943,Private,390,5,unclassified,100000.0,160.0,completed,,
+944,Private,245,5,unclassified,3500000.0,1103.0,completed,,
+945,Private,525,3,unclassified,3057000.0,1253.2,completed,,
+946,Private,673,5,unclassified,6700000.0,3716.1,completed,,
+947,Private,240,5,unclassified,3500000.0,1192.1,completed,,
+948,Al Falah Town Centre,4,2,unclassified,4200000.0,1000.0,completed,,
+949,Private,410,5,unclassified,1050000.0,40000.0,completed,,
+950,Private,37,2,unclassified,1900000.0,33462.2,completed,,
+951,Private,376,1,unclassified,5000000.0,2188.9,completed,,
+952,Private,166,4,unclassified,950000.0,3950.0,completed,,
+953,Private,444,1,unclassified,38003.0,39812.4,completed,,
+954,Private,449,3,unclassified,95000.0,7995.9,completed,,
+955,Private,347,4,unclassified,3600000.0,2090.3,completed,,
+956,Private,382,4,unclassified,6300000.0,3725.4,completed,,
+957,Al Raha Beach (Plots),540,1,unclassified,7000000.0,2455.7,completed,,
+958,Private,225,2,unclassified,30000000.0,3901.9,completed,,
+959,Private,391,2,unclassified,200000.0,894.6,completed,,
+960,Private,509,5,unclassified,3500000.0,2950.5,completed,,
+961,Private,616,4,unclassified,5000000.0,1501.0,completed,,
+962,Private,565,2,unclassified,3000000.0,209.0,completed,,
+963,Private,327,5,unclassified,850000.0,10000.0,completed,,
+964,Private,657,2,unclassified,10000000.0,3427.4,completed,,
+965,Private,706,5,unclassified,375399.0,833.9,completed,,
+966,Private,339,3,unclassified,7000000.0,1084.0,completed,,
+967,Private,684,2,6+ beds,5000000.0,500.0,completed,,
+968,Private,468,3,unclassified,377500.0,44834.4,court_mandated,,
+969,Private,694,1,unclassified,4000000.0,459.0,completed,,
+970,Private,374,2,unclassified,4500000.0,1963.9,completed,,
+971,Private,840,3,unclassified,110000000.0,19064.7,completed,,
+972,Private,637,2,unclassified,50000.0,439.4,completed,,
+973,Private,309,4,unclassified,20100000.0,22896.2,completed,,
+974,Private,590,5,unclassified,2250000.0,1050.0,completed,,
+975,West Yas - Precinct O (Plots),837,3,unclassified,8000000.0,429.5,completed,,
+976,Private,790,1,unclassified,28000000.0,2828.3,completed,,
+977,Private,822,5,unclassified,350000.0,21904.0,completed,,
+978,Al Raha Gardens - Sidra,714,5,unclassified,50000.0,797.0,completed,,
+979,Capital Centre (Plots),809,3,unclassified,40000000.0,2910.5,completed,,
+980,Private,780,3,unclassified,53000000.0,2986.2,completed,,
+981,Private,515,2,unclassified,3000000.0,306.4,completed,,
+982,Private,251,4,unclassified,3300000.0,200.7,completed,,
+983,Private,534,3,unclassified,11225000.0,1252.9,completed,,
+984,Saadiyat Grove - The Source,647,5,1 bed,3919000.0,210.2,off_plan,,
+985,Private,497,4,unclassified,1544998.46,332.0,court_mandated,,
+986,Private,282,5,unclassified,10400000.0,2041.2,completed,,
+987,Al Raha Beach (Plots),541,5,unclassified,19750000.0,5476.4,completed,,
+988,Private,592,1,unclassified,2150000.0,1050.0,completed,,
+989,Private,661,1,unclassified,6500000.0,1671.3,completed,,
+990,Al Falah Village,3,1,unclassified,3400000.0,469.6,completed,,
+991,Private,266,1,unclassified,5600000.0,469.4,completed,,
+992,Private,520,5,unclassified,10900000.0,162014.4,completed,,
+993,Razeen Workers' City,520,3,unclassified,13100000.0,161053.9,completed,,
+994,Private,485,4,unclassified,140000.0,10130.0,completed,,
+995,Private,740,4,unclassified,200000.0,1842.1,completed,,
+996,Private,331,5,unclassified,13641000.0,2599.8,completed,,
+997,Private,566,1,unclassified,2375000.0,1074.9,completed,,
+998,Private,28,1,unclassified,400000.0,5533.1,completed,,
+999,Private,311,5,unclassified,7400000.0,42000.0,completed,,
+1000,Private,69,2,unclassified,1100000.0,796.1,completed,,
+1001,Private,302,3,unclassified,5400000.0,83168.9,completed,,
+1002,Lulu Group Staff Accommodation,314,3,unclassified,23300000.0,312833.5,completed,,
+1003,Private,92,1,unclassified,63600000.0,1000438.3,completed,,
+1004,Private,32,2,unclassified,51700000.0,875012.3,completed,,
+1005,Private,314,2,unclassified,6200000.0,123171.7,completed,,
+1006,Private,313,2,unclassified,22000000.0,414749.1,completed,,
+1007,ICAD Residential City,301,5,unclassified,107800000.0,818192.2,completed,,
+1008,Private,303,4,unclassified,14300000.0,11338.2,completed,,
+1009,Private,332,1,unclassified,8000000.0,2600.0,completed,,
+1010,Private,429,3,unclassified,300000.0,40000.0,completed,,
+1011,Private,70,5,unclassified,4500000.0,2604.0,completed,,
+1012,Private,547,5,unclassified,2200000.0,1050.7,completed,,
+1013,Private,276,5,unclassified,200000.0,33603.0,completed,,
+1014,Private,74,1,unclassified,1838501.84,59952.6,court_mandated,,
+1015,Private,267,2,unclassified,13500000.0,12641.8,completed,,
+1016,Nurai Island Resort,517,5,unclassified,19000000.0,3126.3,completed,,
+1017,Private,173,1,unclassified,600000.0,39998.0,completed,,
+1018,Private,642,2,unclassified,62947700.0,43934.6,completed,,
+1019,Al Maryah Tower,323,2,unclassified,450000000.0,111203.4,completed,,
+1020,Private,153,4,unclassified,1000000.0,463.1,completed,,
+1021,Private,437,2,unclassified,149000.0,4893.0,court_mandated,,
+1022,Private,52,2,5 beds,4334777.0,577.5,off_plan,,
+1023,Private,653,5,unclassified,11000000.0,2599.7,completed,,
+1024,Private,445,4,unclassified,400000.0,19890.6,completed,,
+1025,Private,517,2,unclassified,4308043.09,1429.4,completed,,
+1026,Private,849,4,unclassified,5500000.0,3716.1,completed,,
+1027,Private,34,5,unclassified,300000.0,814.0,completed,,
+1028,Private,454,5,unclassified,400000.0,40000.0,completed,,
+1029,Private,206,2,unclassified,16000000.0,2079.5,completed,,
+1030,Al Raha Beach (Plots),543,1,unclassified,66675000.0,7116.5,completed,,
+1031,Private,330,5,unclassified,4250000.0,2952.0,completed,,
+1032,Private,826,5,unclassified,900000.0,33489.0,completed,,
+1033,Private,326,4,5 beds,1400000.0,543.3,completed,,
+1034,Private,779,4,unclassified,1428568.57,9902.0,court_mandated,,
+1035,Private,704,4,unclassified,2900000.0,1115.2,completed,,
+1036,West Yas - Retail (Plots),837,4,unclassified,5000000.0,13799.1,completed,,
+1037,Private,751,1,unclassified,350000.0,23104.0,completed,,
+1038,Private,730,3,2 beds,1050000.0,196.6,completed,,
+1039,Louvre Residences,647,5,2 beds,2113608.0,141.1,off_plan,,
+1040,Al Jazeera Towers,232,1,unclassified,352899647.1,96071.6,court_mandated,,
+1041,Private,627,2,unclassified,2100000.0,1114.8,completed,,
+1042,Saadiyat Beach Villas,643,3,6+ beds,12940000.0,874.0,completed,,
+1043,Private,570,5,5 beds,3400000.0,1054.4,completed,,
+1044,Al Ain Mall,68,3,unclassified,776000000.0,159819.8,court_mandated,,
+1045,Al Falah Village,1,5,5 beds,3600000.0,537.7,completed,,
+1046,Private,640,1,6+ beds,19687777.0,1261.7,off_plan,,
+1047,Private,104,2,unclassified,700000.0,48.0,completed,,
+1048,Private,82,2,unclassified,190250.0,727.8,completed,,
+1049,Private,371,2,unclassified,200000.0,2941.0,completed,,
+1050,Private,320,5,unclassified,3500000.0,1506.0,completed,,
+1051,Private,81,1,unclassified,5522000.0,2511.3,completed,,
+1052,Private,333,4,unclassified,5000000.0,3716.1,completed,,
+1053,Private,428,3,unclassified,80000.0,27800.0,completed,,
+1054,Private,353,4,unclassified,3900000.0,2025.0,completed,,
+1055,Private,841,5,unclassified,202000000.0,12463.4,completed,,
+1056,Private,484,1,unclassified,450000.0,22801.0,completed,,
+1057,Al Mushrif Gardens,782,4,unclassified,3700000.0,495.6,completed,,
+1058,Private,492,4,unclassified,350000.0,39504.8,completed,,
+1059,Private,312,1,unclassified,40000.0,5074.9,completed,,
+1060,Private,733,2,4 beds,1338794.0,155.5,off_plan,,
+1061,Private,114,3,unclassified,50000.0,6438.7,completed,,
+1062,Private,809,3,unclassified,112000000.0,22510.8,completed,,
+1063,Private,30,3,unclassified,20000.0,17445.0,completed,,
+1064,Private,264,3,2 beds,1200000.0,625.4,completed,,
+1065,Private,787,3,unclassified,2526185.09,4273.5,completed,,
+1066,Private,609,1,unclassified,150000000.0,32297.0,completed,,
+1067,Private,847,3,unclassified,224609.69,875.7,completed,,
+1068,Private,396,5,5 beds,3500000.0,3901.9,completed,,
+1069,Private,54,5,unclassified,1400000.0,977.6,completed,,
+1070,Private,53,5,unclassified,6000000.0,132999.0,completed,,
+1071,Private,253,2,unclassified,1300000.0,589.2,completed,,
+1072,Private,237,4,unclassified,2000000.0,775.9,completed,,
+1073,Private,636,1,unclassified,7300000.0,6401.6,completed,,
+1074,Private,785,1,unclassified,3000000.0,444.3,completed,,
+1075,Private,286,2,unclassified,500000.0,36.0,completed,,
+1076,Private,613,3,3 beds,2450000.0,900.0,completed,,
+1077,Private,58,1,unclassified,500000.0,494.6,completed,,
+1078,Private,446,4,unclassified,48360.0,4030.0,completed,,
+1079,Private,832,1,unclassified,2632138.78,429.9,off_plan,,
+1080,Saadiyat Beach District (Plots),642,2,unclassified,127500000.0,94614.2,completed,,
+1081,Private,596,2,unclassified,31109100.0,6450.4,completed,,
+1082,Private,488,4,unclassified,320000.0,23104.0,completed,,
+1083,Private,439,2,unclassified,190000.0,24186.0,completed,,
+1084,Private,578,5,unclassified,900000.0,1049.3,completed,,
+1085,Private,209,4,4 beds,700000.0,1644.8,completed,,
+1086,Private,529,4,unclassified,8800000.0,1208.4,completed,,
+1087,Private,836,5,unclassified,3739669.5,1485.9,completed,,
+1088,Private,837,3,unclassified,2751616.14,986.9,completed,,
+1089,Private,138,5,unclassified,400000.0,33488.0,completed,,
+1090,Private,160,5,unclassified,575000.0,33489.0,completed,,
+1091,Private,297,1,unclassified,3400000.0,1156.8,completed,,
+1092,Private,61,2,unclassified,1078000.0,13984.0,completed,,
+1093,Private,681,4,5 beds,5100000.0,1045.2,completed,,
+1094,Private,62,1,unclassified,1980000.0,81200.0,completed,,
+1095,Private,461,5,unclassified,60000.0,3200.0,completed,,
+1096,Wahat Yas (Plots),536,4,unclassified,8233156.0,1561.0,off_plan,,
+1097,Private,472,2,unclassified,550000.0,22586.0,completed,,
+1098,Private,402,3,unclassified,1250000.0,2025.0,completed,,
+1099,Private,864,5,unclassified,3600000.0,2531.6,completed,,
+1100,Private,392,5,3 beds,450000.0,1295.3,completed,,
+1101,Private,162,5,unclassified,15000.0,2000.0,completed,,
+1102,Private,678,1,1 bed,1880000.0,103.8,off_plan,,
+1103,Private,187,1,unclassified,60000000.0,5389.5,completed,,
+1104,Al Raha Beach (Plots),537,5,unclassified,55800000.0,6399.1,completed,,
+1105,Private,713,3,unclassified,162000000.0,115574.6,completed,,
+1106,C11,682,5,unclassified,49427912.0,6503.0,completed,,
+1107,Saadiyat Beach District (Plots),640,1,unclassified,94185000.0,61053.5,completed,,
+1108,Private,746,5,unclassified,6000000.0,8250.0,off_plan,,
+1109,Wahat Al Zaweya,746,2,unclassified,10000000.0,3000.0,off_plan,,
+1110,Private,499,4,unclassified,55000000.0,13919.8,completed,,
+1111,Al Raha Beach (Plots),538,3,unclassified,55000000.0,7540.6,completed,,
+1112,Private,629,2,unclassified,2000000.0,1914.3,completed,,
+1113,Private,41,3,unclassified,6300000.0,71412.0,completed,,
+1114,Private,838,2,unclassified,4300000.0,3698.2,completed,,
+1115,Private,151,5,unclassified,1000000.0,404.4,completed,,
+1116,Private,398,3,unclassified,11655473.91,2663.3,completed,,
+1117,Private,375,2,unclassified,5000000.0,2434.3,completed,,
+1118,Private,85,2,unclassified,100000.0,1080.0,completed,,
+1119,Private,725,2,unclassified,500000.0,2088032.8,completed,,
+1120,Al Raha Beach (Plots),542,3,unclassified,37000000.0,14607.0,completed,,
+1121,Private,544,1,unclassified,20000000.0,7088.6,completed,,
+1122,Private,728,2,unclassified,157800000.0,137171.6,completed,,
+1123,"Zayed Sports City, Rihan Heights",808,2,unclassified,1478289041.0,269483.8,completed,,
+1124,"Y Tower, Al Reem Island",610,2,unclassified,103020000.0,106147.6,completed,,
+1125,Private,197,3,unclassified,5810926.0,594.1,completed,,
+1126,Private,845,2,unclassified,9000000.0,900.8,completed,,
+1127,Private,318,3,unclassified,600000.0,526.5,completed,,
+1128,Liwa Village,770,1,unclassified,590000000.0,54923.5,completed,,
+1129,"Corniche Building, Al Markaziyah West",801,1,unclassified,285540579.0,43345.7,completed,,
+1130,Private,480,3,unclassified,380000.0,11116.0,completed,,
+1131,Private,580,5,unclassified,1500000.0,1039.6,completed,,
+1132,Private,558,5,unclassified,1500000.0,1179.7,completed,,
+1133,Private,262,4,unclassified,160000.0,759.3,completed,,
+1134,Private,165,3,unclassified,20000.0,3000.0,completed,,
+1135,Baynunah Tower,801,1,unclassified,316934400.0,81750.3,completed,,
+1136,Private,430,3,unclassified,478296.0,39858.0,completed,,
+1137,Private,569,5,unclassified,2000000.0,1054.4,completed,,
+1138,Private,192,2,unclassified,35694712.0,8539.3,completed,,
+1139,Private,200,3,unclassified,53447906.0,9339.4,completed,,
+1140,Private,699,2,unclassified,4300000.0,854.7,completed,,
+1141,Private,108,2,unclassified,900000.0,47434.0,completed,,
+1142,Masdar City - Phase 1 (Plots),677,3,unclassified,190000000.0,26869.1,completed,,
+1143,Private,452,4,unclassified,182256.0,15188.0,completed,,
+1144,Private,150,3,unclassified,100000.0,20038.2,completed,,
+1145,Private,238,5,unclassified,4500000.0,2184.9,completed,,
+1146,Private,762,4,unclassified,900000.0,1075.5,completed,,
+1147,Al Ghaith Tower,232,4,unclassified,20000000.0,54653.2,completed,,
+1148,Al Jeel Tower A,603,2,unclassified,72100000.0,24668.0,completed,,
+1149,Private,158,3,unclassified,5200000.0,184523.3,completed,,
+1150,Private,120,2,6+ beds,2500000.0,331.4,completed,,
+1151,Private,455,4,unclassified,35000.0,4998.9,completed,,
+1152,Private,724,5,unclassified,200000.0,31561.3,completed,,
+1153,Private,457,3,unclassified,100000.0,13118.0,completed,,
+1154,Private,526,3,unclassified,8800000.0,2455.1,completed,,
+1155,Private,161,1,unclassified,70000.0,10000.0,completed,,
+1156,Private,614,4,unclassified,3500000.0,455.4,completed,,
+1157,The Kite Residences,599,3,unclassified,300000000.0,94758.5,completed,,
+1158,Private,731,2,unclassified,8000000.0,10205.4,completed,,
+1159,Private,835,5,unclassified,4218766.0,10066.3,completed,,
+1160,Private,527,5,unclassified,8000000.0,1425.5,completed,,
+1161,Private,586,2,unclassified,64615.32,1050.2,completed,,
+1162,Private,584,4,unclassified,1380000.0,1049.9,completed,,
+1163,Private,588,4,unclassified,800000.0,1092.5,completed,,
+1164,Private,510,5,unclassified,387110.0,462.4,court_mandated,,
+1165,Private,149,4,unclassified,300000.0,1370.4,completed,,
+1166,Private,528,4,unclassified,40000000.0,46935.0,completed,,
+1167,Private,244,5,unclassified,1500000.0,244.8,court_mandated,,
+1168,Private,6,4,unclassified,650000.0,426.6,completed,,
